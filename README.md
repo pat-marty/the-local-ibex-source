@@ -30,6 +30,7 @@ All Markdown documents have the extension `.md` and can be edited in any text ed
 
 ```
 This is some text.  And here's the wave equation just for proof of concept:
+
 $$
     \frac{1}{c^2 (\textbf{x})} \partial_t^2 \varphi(\mathbf{x}, t) + \nabla^2 \varphi = f (\textbf{x}, t)
 $$
