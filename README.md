@@ -41,6 +41,7 @@ Here's also some ~~crossed-through text~~, **bold text**, and some *italicized t
 which would look like this when rendered:
 
 > This is some text.  And here's the wave equation just for proof of concept:
+> 
 > $$
 >     \frac{1}{c^2 (\textbf{x})} \partial_t^2 \varphi(\mathbf{x}, t) + \nabla^2 \varphi (\mathbf{x}, t) = f (\textbf{x}, t)
 > $$
