@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="254.31624mm"
+   height="48.973179mm"
+   viewBox="0 0 254.31624 48.973179"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="difficulty_symbols.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-midpoints="true"
+     inkscape:zoom="0.53606165"
+     inkscape:cx="551.24257"
+     inkscape:cy="194.94027"
+     inkscape:window-width="1792"
+     inkscape:window-height="1075"
+     inkscape:window-x="891"
+     inkscape:window-y="1463"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect999"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(21.987377,-82.717191)">
+    <path
+       style="fill:#ffd801;fill-opacity:1;stroke:#000000;stroke-width:0.661001;stroke-linecap:round;stroke-opacity:1"
+       d="m -21.343147,107.20377 c 0,0 39.268524,-23.799095 39.268524,-23.799095 0,0 39.030533,23.799095 39.030533,23.799095 0,0 -38.316561,23.56112 -38.316561,23.56112 0,0 -39.982496,-23.56112 -39.982496,-23.56112 z"
+       id="path997"
+       inkscape:path-effect="#path-effect999"
+       inkscape:original-d="M -21.343147,107.20377 17.925377,83.404675 56.95591,107.20377 18.639349,130.76489 Z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/pmarty/Patrick/95_Misc/03_Websites/HikingWebsite/content/en/docs/hiking/difficulty_scale/T1.png"
+       inkscape:export-xdpi="250.009"
+       inkscape:export-ydpi="250.009" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.661001;stroke-linecap:round;stroke-opacity:1"
+       id="rect6700"
+       width="74.967186"
+       height="15.231427"
+       x="65.52359"
+       y="83.047691"
+       inkscape:export-filename="/Users/pmarty/Patrick/95_Misc/03_Websites/HikingWebsite/content/en/docs/hiking/difficulty_scale/T2_T3.png"
+       inkscape:export-xdpi="250.009"
+       inkscape:export-ydpi="250.009" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.661001;stroke-linecap:round;stroke-opacity:1"
+       id="rect6700-5"
+       width="74.967186"
+       height="15.231427"
+       x="65.523605"
+       y="116.12844"
+       inkscape:export-filename="/Users/pmarty/Patrick/95_Misc/03_Websites/HikingWebsite/content/en/docs/hiking/difficulty_scale/T2_T3.png"
+       inkscape:export-xdpi="250.009"
+       inkscape:export-ydpi="250.009" />
+    <rect
+       style="fill:#e80000;fill-opacity:1;stroke:#000000;stroke-width:0.661001;stroke-linecap:round;stroke-opacity:1"
+       id="rect6834"
+       width="74.967186"
+       height="17.849331"
+       x="65.52359"
+       y="98.279106"
+       inkscape:export-filename="/Users/pmarty/Patrick/95_Misc/03_Websites/HikingWebsite/content/en/docs/hiking/difficulty_scale/T2_T3.png"
+       inkscape:export-xdpi="250.009"
+       inkscape:export-ydpi="250.009" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.661001;stroke-linecap:round;stroke-opacity:1"
+       id="rect6700-4"
+       width="74.967186"
+       height="15.231427"
+       x="157.03116"
+       y="83.047707"
+       inkscape:export-filename="/Users/pmarty/Patrick/95_Misc/03_Websites/HikingWebsite/content/en/docs/hiking/difficulty_scale/T4_T5_T6.png"
+       inkscape:export-xdpi="250.009"
+       inkscape:export-ydpi="250.009" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.661001;stroke-linecap:round;stroke-opacity:1"
+       id="rect6700-5-5"
+       width="74.967186"
+       height="15.231427"
+       x="157.03117"
+       y="116.12844"
+       inkscape:export-filename="/Users/pmarty/Patrick/95_Misc/03_Websites/HikingWebsite/content/en/docs/hiking/difficulty_scale/T4_T5_T6.png"
+       inkscape:export-xdpi="250.009"
+       inkscape:export-ydpi="250.009" />
+    <rect
+       style="fill:#0293ff;fill-opacity:1;stroke:#000000;stroke-width:0.661001;stroke-linecap:round;stroke-opacity:1"
+       id="rect6834-8"
+       width="74.967186"
+       height="17.849331"
+       x="157.03116"
+       y="98.279106"
+       inkscape:export-filename="/Users/pmarty/Patrick/95_Misc/03_Websites/HikingWebsite/content/en/docs/hiking/difficulty_scale/T4_T5_T6.png"
+       inkscape:export-xdpi="250.009"
+       inkscape:export-ydpi="250.009" />
+  </g>
+</svg>

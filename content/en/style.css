@@ -1,0 +1,49 @@
+/* <hl></hl> */
+hl{
+    background-color: rgba(0, 0, 0, 0);
+    /* color: #3fa0d1; */
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Used for side-by-side figures */
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Round figure corners */
+img{
+  border-radius:7.5%;
+  overflow:hidden;
+}
+
+/* Center images; for general use */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Landscape images */
+.landscape {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+/* Portrait images */
+.portrait {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 67%;
+}
