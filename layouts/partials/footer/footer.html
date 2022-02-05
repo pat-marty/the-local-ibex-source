@@ -11,7 +11,7 @@
           {{ range .Site.Menus.footer -}}
             <li class="list-inline-item"><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
           {{ end -}}
-          <li class="list-inline-item">{{ .Site.Params.copyRight | safeHTML }}</li>
+          <li class="list-inline-item">{{ replace .Site.Params.copyRight "{year}" now.Year | safeHTML }}</li>
         </ul>
       </div>
     </div>
