@@ -1,0 +1,89 @@
+# Meta Data for SEO
+
+## Homepage
+title = "The Local Ibex"
+titleSeparator = "-"
+titleAddition = "Exploring Switzerland"
+description = "Many of the tours you’ll find here aren’t ones that you’ll typically find in regular tourist brochures. We prefer to explore trails that are “off the beaten track” to enjoy the mountains the way that the locals for a given region do."
+
+## Documentation
+# docsVersion = "0.3"
+
+## Open Graph
+images = []
+ogLocale = "en_US"
+domainTLD = "doks.netlify.app"
+titleHome = "The Local Ibex"
+
+# ## Twitter Cards
+# twitterSite = "@getdoks"
+# twitterCreator = "@henkverlinde"
+
+# ## JSON-LD
+# # schemaType = "Person"
+# schemaType = "Organization"
+# schemaName = "Doks"
+# schemaAuthor = "Henk Verlinde"
+# schemaAuthorTwitter = "https://twitter.com/henkverlinde"
+# schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
+# schemaAuthorGitHub = "https://github.com/h-enk"
+# schemaLocale = "en-US"
+# schemaLogo = "logo.png"
+# schemaLogoWidth = 1024
+# schemaLogoHeight = 1024
+# schemaImage = "doks.png"
+# schemaImageWidth = 1280
+# schemaImageHeight = 640
+# schemaTwitter = "https://twitter.com/getdoks"
+# schemaLinkedIn = ""
+# schemaGitHub = "https://github.com/h-enk/doks"
+# schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+smallLimit = "300"
+
+# Footer
+# <a href=\"https://www.netlify.com/\">Netlify</a>
+footer = "Powered by <a href=\"https://gohugo.io/\">Hugo</a> and <a href=\"https://getdoks.org/\">Doks</a>"
+
+# Feed
+copyRight = "Copyright © 2022 Bruno Marty and Pat Marty"
+
+# Alert
+alert = false
+alertDismissable = true
+# alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
+alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
+
+# Edit Page
+# repoHost [Github | Gitea | GitLab] is used for building the edit link based on git hoster
+repoHost = "GitHub"
+#repoHost = "Gitea"
+docsRepo = "https://github.com/pat-marty/the-local-ibex-source"
+docsRepoBranch = "main"
+editPage = false
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  darkMode = true
+  bootStrapJs = true
+  breadCrumb = false
+  highLight = true
+  kaTex = false
+  collapsibleSidebar = true
+  multilingualMode = false
+  docsVersioning = false
