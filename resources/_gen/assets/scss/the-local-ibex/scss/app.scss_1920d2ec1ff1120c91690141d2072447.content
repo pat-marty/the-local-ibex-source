@@ -10042,7 +10042,7 @@ $border-dark: darken($body-bg-dark, 2.5%);
 
 [data-dark-mode] body .doks-sidebar-toggle {
   color: #d32e9d;
-  border: 1px solid #d32e9d; }
+  border: 2px solid #d32e9d; }
 
 [data-dark-mode] body .btn-menu:hover,
 [data-dark-mode] body .btn-doks-light:hover,
