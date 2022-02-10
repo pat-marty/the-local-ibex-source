@@ -391,11 +391,18 @@ button#doks-versions {
   margin-left: 1rem;
 }
 
-.btn-menu,
+.btn-menu {
+  padding-right: 0.25rem;
+  padding-left: 0.25rem;
+  margin-right: -0.5rem;
+}
+
 .doks-sidebar-toggle {
   padding-right: 0.25rem;
   padding-left: 0.25rem;
   margin-right: -0.5rem;
+  color: $primary;
+  border: 1px solid $primary;
 }
 
 .btn-menu:hover,
@@ -405,9 +412,13 @@ button#doks-versions {
 }
 
 .btn-menu:focus,
-.doks-sidebar-toggle:focus,
 .doks-mode-toggle:focus {
   outline: 0;
+}
+
+.doks-sidebar-toggle:focus {
+  color: $primary;
+  border: 1px solid $primary;
 }
 
 .doks-sidebar-toggle .doks-collapse {
