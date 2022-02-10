@@ -132,7 +132,7 @@ button#doks-versions {
 
 .header-bar {
   border-top: 4px solid;
-  border-image-source: linear-gradient(90deg, $primary, #8ed6fb 50%, $primary);
+  border-image-source: linear-gradient(90deg, $primary, #8ed6fb 50%, $secondary);
   border-image-slice: 1;
 }
 
@@ -401,8 +401,8 @@ button#doks-versions {
   padding-right: 0.25rem;
   padding-left: 0.25rem;
   margin-right: -0.5rem;
-  color: $primary;
-  border: 1px solid $primary;
+  color: $secondary;
+  border: 2px solid $secondary;
 }
 
 .btn-menu:hover,
@@ -417,8 +417,8 @@ button#doks-versions {
 }
 
 .doks-sidebar-toggle:focus {
-  color: $primary;
-  border: 1px solid $primary;
+  color: $secondary;
+  border: 2px solid $secondary;
 }
 
 .doks-sidebar-toggle .doks-collapse {
