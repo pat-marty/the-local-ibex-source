@@ -22,15 +22,35 @@
   identifier = "snowshoeing"
   url = "docs/snowshoeing/"
 
+# [[main]]
+#   name = "Explore"
+#   url = "docs/"
+#   weight = 10
+
 [[main]]
-  name = "Explore"
-  url = "docs/"
+  name = "Hiking"
+  url = "docs/hiking/overview"
   weight = 10
 
 [[main]]
-  name = "Recent Tours"
-  url = "blog/"
-  weight = 20
+  name = "Mountain Biking"
+  url = "docs/mountain_biking/overview"
+  weight = 11
+
+[[main]]
+  name = "Backcountry Skiing"
+  url = "docs/backcountry_skiing/overview"
+  weight = 12
+
+[[main]]
+  name = "Snowshoeing"
+  url = "docs/snowshoeing/overview"
+  weight = 13
+
+# [[main]]
+#   name = "Recent Tours"
+#   url = "blog/"
+#   weight = 20
 
 [[main]]
   name = "About"
