@@ -68,8 +68,8 @@ $navbar-dark-active-color:          $link-color-dark;
 [data-dark-mode] body .doks-sidebar-toggle {
   // color: $navbar-dark-color;
   // background-color: $button-color-dark;
-  color: $button-color-dark;
-  border: 1px solid $button-color-dark;
+  color: $secondary;
+  border: 1px solid $secondary;
 }
 
 [data-dark-mode] body .btn-menu:hover,
