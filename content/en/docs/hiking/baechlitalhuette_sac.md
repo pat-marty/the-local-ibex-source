@@ -34,7 +34,7 @@ menu:
 - Day hike from the <hl>Räterichsbodensee</hl> (near the <hl>Grimsel Pass</hl>) to the <hl>Bächlitalhütte SAC</hl>
 - The starting point is easily accessible with both car and public transit
 - The ascent and descent take the same path; there is only one officially marked path which leads to the <hl>Bächlitalhütte</hl>
-- We'd suggest doing this hike when the ground is dry.  While the hike itself isn't very dangerous, most of the hike is on smooth rocks which can make the path quite slippery when wet
+- If we were to do this hike again, we'd go when the ground would be dry.  While the hike itself isn't very dangerous, most of the hike is on smooth rocks which can make the path quite slippery when wet.
 
 ## Ascent to the Bächlital
 

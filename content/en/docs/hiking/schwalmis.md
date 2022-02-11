@@ -30,15 +30,15 @@ menu:
 
 ## Arrival
 
-The starting point of the hike is reached via cable car in St. Jakob (end of the
+We reached the starting point of the hike via cable car in St. Jakob (end of the
 Isenthal).  The cable car station can be reached via public transit by taking a
 PostAuto from <hl>Altdorf</hl> to <hl>Isenthal, Seilbahn St. Jakob</hl>.  We
 decided to go by car instead though; there is quite a bit of parking space at
 the cable car station.
 
-There's a landline telephone in the cable car station that you need to use
+There's a landline telephone in the cable car station that we had to use
 to request for the cable car to run — it's a little old-school, but it gets the
-job done.  You pay for the cable car ride once you get to the top.
+job done.  We payed for the cable car ride once we got to the top.
 
 <p align="center">
     <img src="IMG_4147.JPG" alt="" class="portrait">
@@ -48,9 +48,9 @@ job done.  You pay for the cable car ride once you get to the top.
 ## Schwalmis
 
 The first portion of the hike from the cable car in <hl>Gitschenen</hl> to the <hl>marsh
-plain</hl> at Ober Bolgen is fairly straight forward.  There is a fork in the path
-about half way across the plain, which is the start of the ascent to the
-Schwalmis.  This bit is moderately steep but it not exposed.
+plain</hl> at Ober Bolgen was fairly straight forward.  There was a fork in the path
+about half way across the plain, which was the start of the ascent to the
+Schwalmis.  This bit was moderately steep but it was not particularly exposed.
 
 <div class="row">
     <div class="column">
@@ -67,8 +67,10 @@ Schwalmis.  This bit is moderately steep but it not exposed.
     </div>
 </div>
 
-After about 150 m of elevation gain, we'd reached the ridge which leads to the
-<hl>Schwalmis</hl>.  This is the first part of the hike where you need to be a little more careful with your foot placement; slipping here would be less than ideal.
+After about 150 m of elevation gain, we'd reached the ridge which led to the
+<hl>Schwalmis</hl>.  This was the first part of the hike where we needed to be
+very careful with our foot placement; slipping here would have be less than
+ideal.
 
 <p align="center">
     <img src="IMG_4268.JPG" alt="" class="landscape">
@@ -91,14 +93,17 @@ The next peak of the day was the <hl>Risetenstock</hl>.  We had to back-track pa
     <em>View back from the ridge leading to the Schwalmis.  The Risetenstock is the one on the left.</em>
 </p>
 
-Once you get back to the path near the marsh plain, there are two parallel paths that lead to the <hl>Hinter Jochli</hl>.  I would suggest to take the one that is slightly further down into the valley since it is considerably less vulnerable to rockfalls.
+Once we got back to the path near the marsh plain, there were two parallel paths
+that led to the <hl>Hinter Jochli</hl>.  We decided to take the one that
+was slightly further down into the valley since it seemed considerably less
+vulnerable to rockfalls.
 
 <p align="center">
     <img src="IMG_4379.JPG" alt="" class="landscape">
     <em>Cloud cover as seen from the Hinter Jochli.</em>
 </p>
 
-The last bit up to the <hl>Risetenstock</hl> is, again, pretty unproblematic.  The path itself is a little bit steep, but is otherwise not exposed.  We stopped for a quick lunch break at the top.
+The last bit up to the <hl>Risetenstock</hl> was, again, pretty unproblematic.  The path itself was a little bit steep, but was otherwise not exposed.  We stopped for a quick lunch break at the top.
 
 <p align="center">
     <img src="IMG_4392.JPG" alt="" class="portrait">
@@ -114,7 +119,10 @@ The <hl>Glattgrat</hl> (which in German literally means "smooth ridge") was defi
     <em>The view from the top of the Risetenstock looking towards the Glattgrat (here on the left in the clouds).</em>
 </p>
 
-Something that became apparent pretty quickly was where the Glattgrat gets its name from — there are quite a few spots with fairly smooth rock sections.  While not normally problematic, we had to be mindful of our footing since all of the rocks were wet from the fog.
+Something that became apparent pretty quickly was where the Glattgrat gets its
+name from — there were quite a few spots with fairly smooth rock sections.
+While not normally problematic, we had to be mindful of our footing since all of
+the rocks were wet from the fog.
 
 <p align="center">
     <img src="IMG_4428.JPG" alt="" class="portrait">
@@ -127,7 +135,7 @@ While we hadn't seen almost anyone on the path so far, we encountered quite a nu
 
 <p align="center">
     <img src="IMG_4460.JPG" alt="" class="landscape">
-    <em>From the end of the Glattgrat at the Schuenegg.  The path we took continues towards the Brisen (peak in the center of the frame) and can be seen on the right-hand side of the image.</em>
+    <em>From the end of the Glattgrat at the Schuenegg.  The path we took continued towards the Brisen (peak in the center of the frame) and can be seen on the right-hand side of the image.</em>
 </p>
 
 The brief traverse from the <hl>Schuenegg</hl> to the <hl>Steinalper Jochi</hl> was by far the most exposed part of the hike.  The path is quite narrow and follows one of the natural rock-bands on the mountain face.  I've drawn the approximate path in below:

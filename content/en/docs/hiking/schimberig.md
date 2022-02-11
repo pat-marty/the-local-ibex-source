@@ -48,17 +48,17 @@ menu:
 
 <p align="center">
   <img src="IMG_0501.JPG" alt="" class="portrait">
-  <em>Most of the ascent consists of these kinds of hiking paths (blue-white-blue markings).  Most of the lower parts are fairly well marked, but some of the sections higher up require a little more attention to make sure you stay on the correct path.</em>
+  <em>Most of the ascent consisted of these kinds of hiking paths (blue-white-blue markings).  Most of the lower parts are fairly well marked, but some of the sections higher up required a little more attention to make sure we stayed on the correct path.</em>
 </p>
 
 <p align="center">
   <img src="IMG_0506.JPG" alt="" class="portrait">
-  <em>Another view back over the hiking path we'd taken to this point.  Again, not terribly exposed here, but the path itself is fairly steep.</em>
+  <em>Another view back over the hiking path we'd taken to this point.  Again, not terribly exposed here, but the path itself was fairly steep.</em>
 </p>
 
 <p align="center">
   <img src="IMG_0532.JPG" alt="" class="portrait">
-  <em>Starting the ascent to the ridge that leads to the <hl>Hängst</hl>.  While still not particularly exposed, this part of the ridge was very strenuous because of how steep the path is (some sections have upwards of a 40% incline).</em>
+  <em>Starting the ascent to the ridge that lead to the <hl>Hängst</hl>.  While still not particularly exposed, this part of the ridge was very strenuous because of how steep the path was (some sections had upwards of a 40% incline).</em>
 </p>
 
 <p align="center">
@@ -90,12 +90,12 @@ menu:
 
 <p align="center">
   <img src="IMG_0567.JPG" alt="" class="portrait">
-  <em>After a well deserved lunch, we headed back down on the western side of the <hl>Schimberig</hl>.  The hiking paths for this descent are quite a bit less steep than the alpine trail we took on the way up.</em>
+  <em>After a well deserved lunch, we headed back down on the western side of the <hl>Schimberig</hl>.  The hiking paths for this descent were quite a bit less steep than the alpine trail we took on the way up.</em>
 </p>
 
 <p align="center">
   <img src="IMG_0571.JPG" alt="" class="landscape">
-  <em>Even though we're not terribly high up here, you still have pretty consistent views of the surrounding peaks which is always great.</em>
+  <em>Even though we weren't terribly high up here, there are still pretty consistent views of the surrounding peaks which is always great.</em>
 </p>
 
 <p align="center">
@@ -110,5 +110,5 @@ menu:
 
 <p align="center">
   <img src="IMG_0619.JPG" alt="" class="portrait">
-  <em>The last portion of the hike consists of gravel roads.  Definitely a nice way to end an otherwise fairly steep hike.</em>
+  <em>The last portion of the hike consisted of gravel roads.  Definitely a nice way to end an otherwise fairly steep hike.</em>
 </p>

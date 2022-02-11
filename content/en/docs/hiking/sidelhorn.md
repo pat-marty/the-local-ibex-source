@@ -117,7 +117,7 @@ menu:
 
 <p align="center">
     <img src="IMG_3271.JPG" alt="" class="landscape">
-    <em>This is something you need to be careful anywhere that you go hiking in Switzerland, but especially if there are signs warning you about it.  Luckily we didn't find any UXOs on our hike.</em>
+    <em>This was something we're always careful about regardless of where we're hiking in Switzerland, but especially if there are signs warning us about it.  Luckily we didn't find any UXOs on our hike.</em>
 </p>
 
 <p align="center">

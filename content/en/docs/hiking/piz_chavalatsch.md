@@ -31,7 +31,7 @@ menu:
 
 ## Arrival
 
-We stayed in the <hl>Hotel Alpina</hl> in the village of <hl>Sta. Maria</hl> having arrived the evening before.  The drive to the starting point of this hike only took around 10 minutes from Sta. Maria which made this quite convenient to access.  The road leading up to the starting point was labelled as an "off-road" route but rest assured, there _is_ a small parking lot at the end of the road (I'd say there's probably room for about 5 or 6 cars).
+We stayed in the <hl>Hotel Alpina</hl> in the village of <hl>Sta. Maria</hl> having arrived the evening before.  The drive to the starting point of this hike only took around 10 minutes from Sta. Maria which made this quite convenient to access.  The road leading up to the starting point was labelled as an "off-road" route but there was indeed small parking lot at the end of the road (I'd say there's probably room for about 5 or 6 cars).
 
 ## Ascent Among the Larches
 
@@ -85,14 +85,14 @@ Once we had gotten to the final ridgeline up to the <hl>Piz Chavalatsch</hl>, we
     <em>A view once reaching the ridgeline.  The glacier-covered peak in the center is the <hl>Ortler</hl> (Italy).</em>
 </p>
 
-The final ascent up to the <hl>Piz Chavalatsch</hl> was again generally unproblematic.  This final part of the ridgeline is perhaps a little steeper than the previous sections, but is generally not exposed.  Since this ridge is also south-facing, it was (almost) completely free of snow.
+The final ascent up to the <hl>Piz Chavalatsch</hl> was again generally unproblematic.  This final part of the ridgeline was perhaps a little steeper than the previous sections, but was generally not exposed.  Since this ridge was also south-facing, it was (almost) completely free of snow.
 
 <p align="center">
     <img src="IMG_6240.JPG" alt="" class="portrait">
     <em>The final scent up the ridge to the <hl>Piz Cavalatsch</hl>.</em>
 </p>
 
-Once at the top, we were met with an insane 360 degree panorama over the surrounding region.  There's a small hut at the top which has a couple of benches that you can relax and have a picnic at.  All things considered, it was fairly empty at the summit with only around 4 or 5 other people also hanging around taking pictures and enjoying the awesome weather.
+Once at the top, we were met with an insane 360 degree panorama over the surrounding region.  There's a small hut at the top which had a couple of benches that we could relax and have a picnic at.  All things considered, it was fairly empty at the summit with only around 4 or 5 other people also hanging around taking pictures and enjoying the awesome weather.
 
 <div class="row">
     <div class="column">
@@ -118,7 +118,7 @@ After a quick lunch, we headed down across the ridge on the north side of the Pi
     <em>The snow was quite a bit deeper on this side of the mountain.</em>
 </p>
 
-There isn't much in the way of elevation change across the ridge which made this part of the hike a welcome change from the steady ascent up to the top of the Piz Chavalatsch.  We had an incredible view into Switzerland in the west and Italy in the east.
+There wasn't much in the way of elevation changes across the ridge which made this part of the hike a welcome change from the steady ascent up to the top of the Piz Chavalatsch.  We had an incredible view into Switzerland in the west and Italy in the east.
 
 <p align="center">
     <img src="IMG_6343.JPG" alt="" class="landscape">

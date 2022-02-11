@@ -80,7 +80,7 @@ menu:
 
 <p align="center">
   <img src="IMG_7147.JPG" alt="" class="landscape">
-  <em>Looking west from the plateau on which the Leglerhütte is perched.  We will be taking a route which goes down on the south-western side (left-hand-side of the image) and will then continue over this saddle to the lake on the right-hand-side of the image.</em>
+  <em>Looking west from the plateau on which the Leglerhütte is perched.  We then took a route which goes down on the south-western side (left-hand-side of the image) and then continued over this saddle to the lake on the right-hand-side of the image.</em>
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ menu:
 
 <p align="center">
   <img src="IMG_7165.JPG" alt="" class="landscape">
-  <em>There were a few of these surprisingly large marshes somewhat below the Chammseeli.  The hiking path leads around the lake, so keeping your feet dry isn't an issue here.</em>
+  <em>There were a few of these surprisingly large marshes somewhat below the Chammseeli.  The hiking path leads around the lake, so keeping our feet dry wasn't an issue here.</em>
 </p>
 
 <p align="center">

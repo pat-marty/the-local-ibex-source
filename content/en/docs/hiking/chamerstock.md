@@ -44,9 +44,7 @@ You may have noticed that we've listed this hike as _not_ being reachable by
 public transit.  While it _technically_ possible to get to the top of the pass
 via the PostAuto, you would end up starting so late in the morning that it
 probably wouldn't be feasible to get all the way to the Chamerstock and then
-back down to Urnerboden in time to get a PostAuto back to civilization.  Because
-of that, we'd only suggest this hike if you're able to drive to the top of the
-pass.
+back down to Urnerboden in time to get a PostAuto back to civilization.
 
 <p align="center">
     <img src="IMG_5366.JPG" alt="" class="landscape">
@@ -74,7 +72,7 @@ water level in the lake was low enough that this wasn't necessary for us to use.
     <em>The aluminum bridge near the glacial lake.  You can see what's left of the <hl>Clariden Glacier</hl> in the background.</em>
 </p>
 
-While it isn't absolutely necessary to go down to the lake (you could instead have just followed the path further along the moraine and bypassed the lake all-together), I would highly recommend going and taking a look.  It's a really photogenic spot.
+While it isn't absolutely necessary to go down to the lake (we could instead have just followed the path further along the moraine and bypassed the lake all-together), it's a really photogenic spot.
 
 <p align="center">
     <img src="IMG_5501.JPG" alt="" class="portrait">

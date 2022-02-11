@@ -36,10 +36,10 @@ menu:
 ## Quick Summary
 
 - A very warm hike to the <hl>Kröntenhütte SAC</hl> near the city of <hl>Erstfeld</hl>.
-- <hl>Special permit required</hl> to drive up the <hl>Erstfeldertal</hl>; a day permit costs about 20.- and can be purchased at the Kiosk outside of the Migros on Gotthardstrasse
-- Suggested to hike up the southern side of the valley instead of the northern side.  Most people seem to hike up along the river on the north side so you will likely have the trail mostly to yourself if you hike up on the southern side
-- As you will be able to tell from the thick green foliage, this valley is quite temperate.  It is worth going early in the morning as it can get extremely hot here later in the day during the summer months
-- It is worth making a stop at the <hl>Obersee</hl> near the <hl>Kröntenhütte</hl>
+- <hl>Special permit required</hl> to drive up the <hl>Erstfeldertal</hl> was required; a day permit cost about 20.- and could be purchased at the Kiosk outside of the Migros on Gotthardstrasse
+- We decided to hike up on the southern side of the valley instead of the northern side.  Most people seemed to hike up along the river on the north side so we had the trail mostly to ourselves if you hike up on the southern side
+- As the thick green foliage suggests, this valley is quite temperate.  We decided to go early in the morning because it can get extremely hot here later in the day during the summer months
+- We thoroughly enjoyed making a stop at the <hl>Obersee</hl> near the <hl>Kröntenhütte</hl>
 
 ## Ascent to the Kröntenhütte SAC
 
@@ -50,7 +50,7 @@ menu:
 
 <p align="center">
     <img src="IMG_1979.JPG" alt="" class="portrait">
-    <em>Despite the foliage being extremely thick, there are frequent clearings that give you a nice panorama of the valley.</em>
+    <em>Despite the foliage being extremely thick, there are frequent clearings that gave us a nice panorama of the valley.</em>
 </p>
 
 <p align="center">
@@ -89,12 +89,12 @@ menu:
 
 <p align="center">
     <img src="IMG_2077.JPG" alt="" class="portrait">
-    <em>Another view of the waterfalls coming down from the Obersee.  Here you can see the <hl>Kröntenhütte</hl> to the left of the falls.</em>
+    <em>Another view of the waterfalls coming down from the Obersee.  Here we can see the <hl>Kröntenhütte</hl> to the left of the falls.</em>
 </p>
 
 <p align="center">
     <img src="IMG_2089.JPG" alt="" class="landscape">
-    <em>The only (slightly) exposed part of the hike.  This short passage is immediately after the <hl>Fulensee</hl> and takes you down to the <hl>Alpbach</hl> river.  While the path here is quite wide and most of the descent is secured by chains, I could imagine this being a little more sketchy when wet.</em>
+    <em>The only (slightly) exposed part of the hike.  This short passage is immediately after the <hl>Fulensee</hl> and took us down to the <hl>Alpbach</hl> river.  While the path here is quite wide and most of the descent is secured by chains, I could imagine this being a little more sketchy when wet.</em>
 </p>
 
 <p align="center">
@@ -122,4 +122,4 @@ menu:
     <em>Looking back up the Erstfeldertal from where we hiked down.  This final stretch of the hike is down a gravel road to get back to where we parked the car.</em>
 </p>
 
-[^1]: There is an alp taxi that you can take from Erstfeld up to Bodenberg, but this is not part of the standard SBB timetable.
+[^1]: There is an alp taxi that we could have taken from Erstfeld up to Bodenberg, but this was not part of the standard SBB timetable.
