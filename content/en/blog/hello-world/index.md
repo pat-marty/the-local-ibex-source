@@ -7,7 +7,7 @@ lastmod: 2022-02-05
 draft: false
 weight: 50
 images: []
-contributors: ["Pat Marty", "Bruno Marty"]
+contributors: ["Pat", "Bruno"]
 ---
 
 <link href="../../style.css" rel="stylesheet"></link>

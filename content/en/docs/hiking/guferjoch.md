@@ -2,7 +2,7 @@
 title: Guferjoch
 description: Autumn hike around the Sustenpass.
 toc: true
-authors: ['Pat Marty', 'Bruno Marty']
+authors: ['Pat', 'Bruno']
 tags:
 categories: 'T4'
 series:

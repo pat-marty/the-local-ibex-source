@@ -2,7 +2,7 @@
 title: Schwalmis
 description: Autumn hike in the Isenthal (UR) with views atop the Schwalmis and the Risetenstock.
 toc: true
-authors: ['Pat Marty', 'Bruno Marty']
+authors: ['Pat', 'Bruno']
 tags:
 categories: 'T3'
 series:

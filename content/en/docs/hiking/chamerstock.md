@@ -2,7 +2,7 @@
 title: Chamerstock
 description: Above a sea of clouds hiking from the Klausenpass to the Chamerstock.
 toc: true
-authors: ['Pat Marty', 'Bruno Marty']
+authors: ['Pat', 'Bruno']
 tags:
 categories: 'T3'
 series:

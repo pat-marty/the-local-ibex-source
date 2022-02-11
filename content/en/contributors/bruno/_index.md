@@ -1,10 +1,10 @@
 ---
-title: "Pat Marty"
-description: "Engineer, Geophysicist, Hiking Enthusiast, Music Nerd"
+title: "Bruno"
+description: "Animal Scientist, Doctor, Skiier-Extraordinaire, Part Mountain Goat."
 date: 2020-10-06T08:50:45+00:00
 lastmod: 2020-10-06T08:50:45+00:00
 draft: false
-images: [pmarty_profile.JPG]
+images: [bruno_profile.JPG]
 ---
 
 <link href="../../style.css" rel="stylesheet"></link>
@@ -16,7 +16,7 @@ images: [pmarty_profile.JPG]
             overflow:hidden;
         }
     </style>
-    <img src="pmarty_profile.JPG" alt="" width="50%">
+    <img src="bruno_profile.JPG" alt="" width="50%">
 </p>
 
-Engineer, Geophysicist, Hiking Enthusiast, Music Nerd.
+Animal Scientist, Doctor, Skiier-Extraordinaire, Part Mountain Goat.
