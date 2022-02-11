@@ -2,7 +2,7 @@
 title: Kröntenhütte SAC
 description: 
 toc: true
-authors: ['Pat Marty', 'Bruno Marty']
+authors: ['Pat', 'Bruno']
 tags:
 categories: ['T2', 'SAC Hütte']
 series:

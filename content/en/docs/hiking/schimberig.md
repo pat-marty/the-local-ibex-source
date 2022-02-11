@@ -2,7 +2,7 @@
 title: Schimberig
 description: 
 toc: true
-authors: ['Pat Marty', 'Bruno Marty']
+authors: ['Pat', 'Bruno']
 tags:
 categories: 'T3'
 series:

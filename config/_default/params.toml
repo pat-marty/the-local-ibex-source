@@ -58,7 +58,7 @@ smallLimit = "300"
 footer = "Powered by <a href=\"https://gohugo.io/\">Hugo</a> and <a href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
-copyRight = "Copyright © {year} Bruno Marty and Pat Marty"
+copyRight = "Copyright © {year} Bruno and Pat"
 
 # Alert
 alert = false

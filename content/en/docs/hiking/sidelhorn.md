@@ -2,7 +2,7 @@
 title: Sidelhorn
 description: A cold summer hike on the border between the Wallis and Bern.
 toc: true
-authors: ['Pat Marty', 'Bruno Marty']
+authors: ['Pat', 'Bruno']
 tags:
 categories: 'T3'
 series:

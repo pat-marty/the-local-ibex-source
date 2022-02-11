@@ -2,7 +2,7 @@
 title: Piz Terza
 description: Autumn hike within the Val Müstair in eastern Switzerland.
 toc: true
-authors: ['Pat Marty', 'Bruno Marty']
+authors: ['Pat', 'Bruno']
 tags:
 categories: 'T2'
 series: 'Val Müstair 2021'

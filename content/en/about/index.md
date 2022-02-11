@@ -15,19 +15,19 @@ contributors: []
 <div class="row">
     <div class="column">
         <p align="center">
-            <img src="../contributors/bruno-marty/bmarty_profile.JPG" alt="" style="100%" class="center"/>
+            <img src="../contributors/bruno/bruno_profile.JPG" alt="" style="100%" class="center"/>
             <em>Bruno</em>
         </p>
     </div>
     <div class="column">
         <p align="center">
-            <img src="../contributors/pat-marty/pmarty_profile.JPG" alt="" style="100%" class="center"/>
+            <img src="../contributors/pat/pat_profile.JPG" alt="" style="100%" class="center"/>
             <em>Pat</em>
         </p>
     </div>
 </div>
 
-<a href="../contributors/bruno-marty">Bruno Marty</a> and <a href="../contributors/pat-marty">Pat Marty</a> are a father/son duo that love to explore the Swiss alps.
+<a href="../contributors/bruno">Bruno</a> and <a href="../contributors/pat">Pat</a> are a father/son duo that love to explore the Swiss alps.
 
 Many of the tours you'll find here aren't ones that you'll typically find in regular tourist brochures.  We prefer to explore trails that are "off the beaten track" to enjoy the mountains the way that the locals for a given region do.
 
