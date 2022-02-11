@@ -92,7 +92,7 @@ Here are some instructions for creating new website pages.  Note that all text i
 3. Write the article in the Markdown file.  Be sure to fill out the header information at the top of the Markdown file especially:
     - `title`
     - `description`
-    - `authors` (put as a list like `['Bruno Marty']` or `['Bruno Marty', 'Pat Marty']`)
+    - `authors` (put as a list like `['Bruno']` or `['Bruno', 'Pat']`)
     - `categories` (difficulty rating)
     - `date` (hiking date)
     - `lastmod` (current date you are writing this article on)
@@ -140,7 +140,7 @@ Here's an example of what should be included in the metadata at the start of eve
 title: Piz Random
 description: Some random mountain.
 toc: true
-authors: ['Pat Marty', 'Bruno Marty']
+authors: ['Pat', 'Bruno']
 tags:
 categories: 'T6'
 series:
