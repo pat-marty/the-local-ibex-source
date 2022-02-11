@@ -31,12 +31,11 @@ menu:
 
 ## Quick Summary
 
-- Take a (completely over-engineered) cable car from <hl>Tierfed</hl> to <hl>Kalktrittli</hl>.
-- From <hl>Kalktrittli</hl> take the newly constructed path which has been blown out of the side of the mountain.
+- Took a (completely over-engineered) cable car from <hl>Tierfed</hl> to <hl>Kalktrittli</hl>.
+- From <hl>Kalktrittli</hl> we took the newly constructed path which had been blown out of the side of the mountain.
   - While the path is quite wide and very well maintained, it is <hl>extremely</hl> exposed (near-vertical drop of around 800 m).
-  - Being comfortable with heights is very important.
-- Hike up towards the <hl>Muttenwändli</hl> via the <hl>Nüschentäli</hl>.
-  - A few small snowfields to cross, even in the summer.
+- Hiked up towards the <hl>Muttenwändli</hl> via the <hl>Nüschentäli</hl>.
+  - We had a few small snowfields to cross despite it being mid-summer.
 - Coffee and Wähe at the <hl>Muttseehütte SAC</hl>.
 - Quick pit-stop on the <hl>Muttenchopf</hl>.
 - Descent to the <hl>Limmerensee</hl>.
@@ -45,7 +44,7 @@ menu:
 ## Kalktrittli
 <p align="center">
   <img src="IMG_1019.JPG" alt="" class="landscape">
-  <em>Taking the cable car up from <hl>Tierfed</hl> to <hl>Kalktrittli</hl>.  This cable car was initially built for when they were constructing the expansion to the dam at the Muttsee and is completely over-engineered (in a good way).  This cable car was built to transport vehicles and huge amounts of materials to the construction site and not a couple tourists looking for an epic hiking trail ;)</em>
+  <em>Taking the cable car up from <hl>Tierfed</hl> to <hl>Kalktrittli</hl>.  This cable car was initially built for when they were constructing the expansion to the dam at the Muttsee.  This cable car was built to transport vehicles and huge amounts of materials to the construction site and not a couple tourists looking for an epic hiking trail ;)</em>
 </p>
 
 <p align="center">
@@ -71,12 +70,12 @@ menu:
 
 <p align="center">
   <img src="IMG_1031.JPG" alt="" class="portrait">
-  <em>The view forwards towards the Limmerentobel (valley where the sunlight is coming in from).  According to the topography map, it would be around an 800 m drop if you were to fall here.  Definitely watch your step.</em>
+  <em>The view forwards towards the Limmerentobel (valley where the sunlight is coming in from).  According to the topography map, it would be around an 800 m drop if we were to fall here.  We definitely had to watch our step.</em>
 </p>
 
 <p align="center">
   <img src="IMG_1045.JPG" alt="" class="portrait">
-  <em>There are a few very short passages like this which are secured by some chains.  They definitely wouldn't have been necessary, but it helps to make the ascent a little more relaxed.</em>
+  <em>There were a few very short passages like this which were secured by chains.  They definitely wouldn't have been necessary, but it helped to make the ascent a little more relaxed.</em>
 </p>
 
 <p align="center">
@@ -138,7 +137,7 @@ menu:
 
 <p align="center">
   <img src="IMG_1202.JPG" alt="" class="landscape">
-  <em>This is the kind of place I imagine Swiss geology students go to for fieldwork.  Apart from all of the well defined folds and numerous faults, the offset layer to the left of the snow covered gully might be the most spectacular textbook example of a reverse fault I have ever seen.</em>
+  <em>This is the kind of place I imagine Swiss geology students go to for fieldwork.  Apart from all of the well defined folds, the offset layer to the left of the snow covered gully might be the most spectacular textbook example of a reverse fault I have ever seen.</em>
 </p>
 
 <p align="center">
@@ -172,7 +171,7 @@ menu:
 </p>
 
 ## Return Through the Access Tunnel
-<hl>NOTE: You are REQUIRED to wear a safety vest through the tunnel.  There is a box with a bunch of them at the door leading into the tunnel; take one from this bin and then remember to take it off at the other end of the tunnel and put it into the box there.</hl>
+<hl>NOTE: We were REQUIRED to wear a safety vest through the tunnel.  There was a box with a bunch of them at the door leading into the tunnel; we took one from this bin and then deposited it back in the box at the other end of the tunnel.</hl>
 
 <!-- <p align="center">
   <img src="IMG_1251.JPG" alt="" class="landscape">
@@ -186,7 +185,7 @@ menu:
 
 <p align="center">
   <img src="IMG_1266.JPG" alt="" class="portrait">
-  <em>There are some pretty neat little side tunnels you can explore here as well.  This particular one lets you go onto the dam at the end of the Limmerensee.</em>
+  <em>There are some pretty neat little side tunnels we explored here as well.  This particular one lets you go onto the dam at the end of the Limmerensee.</em>
 </p>
 
 <p align="center">
@@ -196,5 +195,5 @@ menu:
 
 <p align="center">
   <img src="IMG_1287.JPG" alt="" class="portrait">
-  <em>The relatively long return back to the cable car.  This tunnel leads directly back to the "James Bond villain lair" where you can get a cable car back down to <hl>Tierfed</hl>.</em>
+  <em>The relatively long return back to the cable car.  This tunnel leads directly back to the "James Bond villain lair" where we got the cable car back down to <hl>Tierfed</hl>.</em>
 </p>

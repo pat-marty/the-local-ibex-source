@@ -42,7 +42,7 @@ directly to the village itself.
 
 ## Alp Tabladatsch
 
-The first portion of the hike is along a gravel road through the forest
+The first portion of the hike was along a gravel road through the forest
 — amazing views with the yellow larch trees all around.  We were quite surprised
 by how few people were on the trail here despite it being a spot which is so
 accessible with public transit.  It was also a weekend when we were here so
@@ -53,8 +53,8 @@ we really lucked out with the lack of other hikers on the trail
     <em>The gravel road leading to the trailhead.</em>
 </p>
 
-Pretty much the entire part up to the <hl>Alp Tabladatsch</hl> hut consists of
-very well maintained gravel roads.  It is only once we reached a small alp hut a
+Pretty much the entire part up to the <hl>Alp Tabladatsch</hl> hut consisted of
+very well maintained gravel roads.  It was only once we reached a small alp hut a
 stone's throw from Alp Tabladatsch that we reached a more typical hiking path.
 
 <p align="center">
@@ -69,21 +69,21 @@ stone's throw from Alp Tabladatsch that we reached a more typical hiking path.
 
 ## Piz Terza
 
-This portion of the hike follows a stream up to a small lake near the <hl>Fuorcla Sassalba</hl>.  Here we followed the waypoint sign to the trail leading up to the <hl>Piz Terza</hl>.
+This portion of the hike followed a stream up to a small lake near the <hl>Fuorcla Sassalba</hl>.  Here we followed the waypoint sign to the trail leading up to the <hl>Piz Terza</hl>.
 
 <p align="center">
     <img src="IMG_6689.JPG" alt="" class="portrait">
     <em>The junction that leads up towards the <hl>Piz Terza</hl>.</em>
 </p>
 
-This part of the trail is quite a bit steeper than the previous parts, but is not at all exposed.  The path is well marked and generally unproblematic to traverse apart from a few patches of ice and snow.
+This part of the trail was quite a bit steeper than the previous parts, but was not at all exposed.  The path was well marked and generally unproblematic to traverse apart from a few patches of ice and snow.
 
 <p align="center">
     <img src="IMG_6701.JPG" alt="" class="landscape">
     <em>A view back towards the <hl>Muntet</hl> (the mountain closest to us).</em>
 </p>
 
-Once we started hitting more frequent snow fields once we got above an elevation of around 2600m to 2700m.  As mentioned though, this path is not at all exposed so these additional obstacles only resulted in the hiking times being a little longer than expected but did not otherwise impact the hike at all.
+We started hitting more frequent snow fields once we got above an elevation of around 2600m to 2700m.  As mentioned though, this path was not at all exposed so these additional obstacles only resulted in the hiking times being a little longer than expected but did not otherwise impact the hike at all.
 
 <p align="center">
     <img src="IMG_6714.JPG" alt="" class="landscape">
@@ -148,7 +148,7 @@ The final portion of the hike back along the gravel road heading towards <hl>Lü
     <em>Larches all around.</em>
 </p>
 
-While a little on the longer side, this hike was absolutely beautiful and had the benefit of not being technically challenging.  This is one I'd highly recommend doing if you're in the area — especially if you're here in the autumn.
+While a little on the longer side, this hike was absolutely beautiful and had the benefit of not being technically challenging.
 
 <p align="center">
     <img src="IMG_7035.JPG" alt="" class="portrait">

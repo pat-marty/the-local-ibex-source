@@ -36,8 +36,8 @@ menu:
   - Cost was around 20.- per person and they only accepted cash (although I think they may also accept Twint now?).
 - From Gitschen, we hiked to the <hl>Spilauersee</hl>.
 - The ascent to the <hl>Siwfass</hl> from the <hl>Spilauersee</hl> involved first hiking up to the joch between the Hagelstock and the Siwfass and then taking an unofficial path from the joch up to the <hl>Siwfass</hl>.
-  - While not being an official hiking path, the dirt path is very visible and easy to follow.
-  - Theres a single bench at the top of the <hl>Siwfass</hl> which offers a great view of the surrounding peaks.
+  - While not being an official hiking path, the dirt path was very visible and easy to follow.
+  - There was a single bench at the top of the <hl>Siwfass</hl> which offered a great view of the surrounding peaks.
 - Descended the Siwfass to the west and circled around the Hundstock to get back to <hl>Gitschen</hl>.
 - Took the cable car back down to <hl>Käppeliberg</hl>.
 
