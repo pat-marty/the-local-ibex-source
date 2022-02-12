@@ -1,12 +1,13 @@
 ---
-title: "Hello World"
+title: "Website Launch"
 description: ""
 lead: "Hi there and welcome to the website!"
 date: 2022-02-05
 lastmod: 2022-02-05
 draft: false
-weight: 50
+weight: 
 images: []
+banner: IMG_5570.JPG
 contributors: ["Pat", "Bruno"]
 ---
 
