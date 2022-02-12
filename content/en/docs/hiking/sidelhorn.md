@@ -22,7 +22,7 @@ menu:
 | &#8595; Down | 700 m |
 | Notable Locations | Grimselpass, Sidelhorn |
 | Public Transit Access? | Yes |
-| Map Download | [PDF](sidelhorn.pdf), [GPX](sidelhorn.gpx) |
+| Map Download | [GPX](sidelhorn.gpx) |
 
 <p align="center">
     <img src="IMG_3005.JPG" alt="" class="landscape">
