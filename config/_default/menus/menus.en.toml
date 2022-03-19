@@ -47,10 +47,10 @@
   url = "docs/snowshoeing/overview"
   weight = 13
 
-# [[main]]
-#   name = "Recent Tours"
-#   url = "blog/"
-#   weight = 20
+[[main]]
+  name = "Blog & Recent Tours"
+  url = "blog/"
+  weight = 20
 
 [[main]]
   name = "About"
