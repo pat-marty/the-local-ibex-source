@@ -83,12 +83,12 @@ Some of the core tools required:
 
 Here are some instructions for creating new website pages.  Note that all text is created using Markdown.  For a quick crash course in how to properly format things in Markdown, see [here](https://www.markdownguide.org/cheat-sheet/).
 
-1. Create a new markdown (`.md` file extension) file in the respective directory under `/content/en/docs/`
-    - Eg. Adding a hike for the Dufourspitze would involve creating the file `/content/en/docs/hiking/dufourspitze.md`
+1. Create a new directory where your images will be stored
+    - Eg. Adding the directory `/content/en/docs/hiking/dufourspitze/`
+2. Create a new markdown `index.md` file in the respective directory under `/content/en/docs/<TOUR_NAME>`
+    - Eg. Adding a hike for the Dufourspitze would involve creating the file `/content/en/docs/hiking/dufourspitze/index.md`
     - It is recommended to make a copy of the `_template.md` file and then rename it to the above so that you have a starting point to work from
     - Make sure that the names of your files follow the naming conventions outlined below
-2. Create a new directory where your images will be stored
-    - Eg. Adding the directory `/content/en/docs/hiking/dufourspitze/` for the above example
 3. Write the article in the Markdown file.  Be sure to fill out the header information at the top of the Markdown file especially:
     - `title`
     - `description`
@@ -111,20 +111,21 @@ Here are a few best practices to follow when creating new posts and documenting 
 Use the following snippet of code for embedding images into a Markdown page:
 
 ```
-<p align="center">
-    <img src="filename.jpg" alt="" width="100%" class="center">
-    <em>A very nice and descriptive caption.</em>
-</p>
+![Optional alternative text](filename.jpg "Some text to caption the image with")
 ```
 
 In the above snippet you should:
 - Change the name of the image from `filename.jpg` to whatever the filename of the image is that you want to add.
-- Add a descriptive caption for the image between the `<em>` and `</em>` tags.
-- You can adjust the width of the image by modifying the `100%` to something different.  It is suggested to use `width="100%"` for landscape images and `width="75%"` for portrait images.
+- Add a descriptive caption for the image within the quotation marks.
+- It is possible to add alternative text within the square brackets `[]` in case the image cannot be displayed for whatever reason.
 
 As of the time of writing, all images are hosted in the same GitHub repository where all of the source code is located.  This may be changed in the future as the website continues to grow, but for now, this is a convenient solution.  Here are a few things to keep in mind when adding pictures to the repository:
 - All images should be saved as either `.png` or `.jpg` format
 - In the interest of keeping the size of the repository down, try limiting the size of individual images to about 3 MB or less.  You can reduce the size of images by importing them into some image editing software like [Gimp](https://www.gimp.org/), [Lightroom](https://www.adobe.com/products/photoshop-lightroom.html), or [Digital Photo Professional](https://www.canon-europe.com/support/camera_software/#EOSDPP) and exporting the image at a reduced resolution.
+
+By default, only images which are contained in the same directory as the `index.md` file can be added to a given page.
+
+Note that in an effort to make the pages more responsive, Hugo automatically generates a few scaled versions of the given figures so that an appropriate image resolution is loaded depending on the resolution of the device which is viewing it.  This helps to keep the pages a little snappier while also reducing the amount of information which mobile users need to load.
 
 ### Metadata for New Pages
 
@@ -156,11 +157,17 @@ menu:
 ### Naming Conventions
 
 There are a few naming conventions that you should follow to ensure that the Markdown to HTML conversion cooperates.  Here are a few things to watch out for:
-- Ensure that the name between tour names and its respective pictures directory match
-    - Eg. if you have a tour under `hikes/matterhorn.md`, make sure that the directory that contains all of the relevant pictures for the tour is under `hikes/matterhorn/`
-    - If these names to not match exactly, then the images will not display properly in the resulting webpages
+- The "base" (root) file for a given page must be called `index.md`
+- Ensure that the `index.md` file is in the same directory as the images which belong to that page
 - Use underscores instead of spaces or dashes
-    - `banana_phone.md` is good, `banana phone.md` or `banana-phone.md` are not
+    - `banana_phone` is good, `banana phone` or `banana-phone` are not
 - Avoid capital letters in file names
-    - `bananaphone.md` is good, `Bananaphone.md` is not
+    - `bananaphone` is good, `Bananaphone` is not
 
+---
+
+## Other Shortcode Plugins
+
+There are a few additional shortcode plugins we use on top of the Doks theme.  In particular, we use:
+- [Hugo Dynamic Tabs](https://github.com/rvanhorn/hugo-dynamic-tabs): Used for generating the (overview, map, gallery, etc) tabs for individual tours
+- [Image Gallery](https://hugocodex.org/add-ons/image-gallery/): Used for generating image galleries for a given page
