@@ -526,3 +526,47 @@ $navbar-dark-active-color:          $link-color-dark;
     border-color: $border-dark;
   }
 }
+
+@media screen and (min-width: 0px) and (max-width: 991px) {
+  [data-dark-mode] .nav-tabs {
+    border-color: transparent;
+  }
+  [data-dark-mode] .nav-tabs .nav-link {
+    background-color: transparent;
+    border-radius: 0.25rem;
+    border-width: 2px;
+    color: $white;
+  }
+
+  [data-dark-mode] .nav-tabs .nav-link.active {
+    background-color: $body-overlay-dark;
+    border-color: $secondary;
+    color: $color-btn-text;
+  }
+  
+  [data-dark-mode] .nav-tabs .nav-link:hover {
+    background-color: $body-overlay-dark;
+    border-color: $secondary;
+    color: $color-btn-text;
+    text-decoration: none;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  [data-dark-mode] .nav-tabs .nav-link {
+    background-color: transparent;
+    color: $white;
+  }
+
+  [data-dark-mode] .nav-tabs .nav-link.active {
+    background-color: $color-btn-bg;
+    color: $color-btn-text;
+  }
+  
+  [data-dark-mode] .nav-tabs .nav-link:hover {
+    background-color: $color-btn-border;
+    color: $color-btn-text;
+    text-decoration: none;
+  }
+}
+

@@ -218,3 +218,61 @@ pre {
   margin-left: -0.1875rem;
   margin-right: -0.3125rem;
 }
+
+.nav-tabs {
+  margin-top: 3rem;
+}
+
+.nav-tabs .nav-link.active {
+  background-color: $color-btn-bg;
+  color: $color-btn-text;
+}
+
+.nav-tabs .nav-link:hover {
+  background-color: $color-btn-border;
+  color: $color-btn-text;
+  text-decoration: none;
+}
+
+@media screen and (min-width: 0px) and (max-width: 991px) {
+  .nav-tabs {
+    border-color: transparent;
+  }
+  .nav-tabs .nav-link {
+    background-color: transparent;
+    border-radius: 0.25rem;
+    border-width: 2px;
+    color: $black;
+  }
+
+  .nav-tabs .nav-link.active {
+    background-color: $pink-100;
+    color: $secondary;
+    border-color: $secondary;
+  }
+  
+  .nav-tabs .nav-link:hover {
+    background-color: $pink-100;
+    border-color: $secondary;
+    color: $secondary;
+    text-decoration: none;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .nav-tabs .nav-link {
+    background-color: transparent;
+    color: $black;
+  }
+
+  .nav-tabs .nav-link.active {
+    background-color: $color-btn-bg;
+    color: $color-btn-text;
+  }
+  
+  .nav-tabs .nav-link:hover {
+    background-color: $color-btn-border;
+    color: $color-btn-text;
+    text-decoration: none;
+  }
+}
