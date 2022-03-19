@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/pat-marty/the-local-ibex.git
+	url = git@github.com:pat-marty/the-local-ibex.git
 	branch = main
