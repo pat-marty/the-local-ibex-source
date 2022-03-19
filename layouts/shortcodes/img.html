@@ -17,11 +17,23 @@
 {{ $imgSrcSet = (delimit $imgSrcSet ",") -}}
 
 <figure{{ with .Get "class" }} class="{{.}}"{{ end }}>
-  {{ if eq .Site.Params.options.lazySizes true -}}
-    <img class="img-fluid lazyload blur-up" data-sizes="auto" src="{{ $lqip.RelPermalink }}" data-srcset="{{ $imgSrcSet }}" width="{{ $image.Width }}" height="{{ $image.Height }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }}>
-  {{ else -}}
-    <img class="img-fluid" sizes="100vw" srcset="{{ $imgSrcSet }}" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }}>
-  {{ end -}}
-  <noscript><img class="img-fluid" sizes="100vw" srcset="{{ $imgSrcSet }}" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }}></noscript>
-  {{ with .Get "caption" }}<figcaption class="figure-caption">{{ . | safeHTML }}</figcaption>{{ end }}
+<ul>
+  {{ if gt $image.Width $image.Height }}
+    {{ if eq .Site.Params.options.lazySizes true -}}
+      <img class="img-fluid lazyload blur-up landscape" data-sizes="auto" src="{{ $lqip.RelPermalink }}" data-srcset="{{ $imgSrcSet }}" width="{{ $image.Width }}" height="{{ $image.Height }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }}>
+    {{ else -}}
+      <img class="img-fluid landscape" sizes="100vw" srcset="{{ $imgSrcSet }}" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }}>
+    {{ end -}}
+    <noscript><img class="img-fluid landscape" sizes="100vw" srcset="{{ $imgSrcSet }}" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }}></noscript>
+    {{ with .Get "caption" }}<figcaption class="figure-caption">{{ . | safeHTML }}</figcaption>{{ end }}
+  {{ else }}
+    {{ if eq .Site.Params.options.lazySizes true -}}
+      <img class="img-fluid lazyload blur-up portrait" data-sizes="auto" src="{{ $lqip.RelPermalink }}" data-srcset="{{ $imgSrcSet }}" width="{{ $image.Width }}" height="{{ $image.Height }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }}>
+    {{ else -}}
+      <img class="img-fluid portrait" sizes="100vw" srcset="{{ $imgSrcSet }}" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }}>
+    {{ end -}}
+    <noscript><img class="img-fluid portrait" sizes="100vw" srcset="{{ $imgSrcSet }}" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }}></noscript>
+    {{ with .Get "caption" }}<figcaption class="figure-caption">{{ . | safeHTML }}</figcaption>{{ end }}
+  {{ end }}
+</ul>
 </figure>
