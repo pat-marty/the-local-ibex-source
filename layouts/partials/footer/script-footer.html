@@ -103,3 +103,11 @@
     <script src="{{ $index.Permalink }}" integrity="{{ $index.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{ end -}}
 {{ end -}}
+
+{{ $lightbox := resources.Get "js/lightbox.js" -}}
+{{ $lightbox_css := resources.Get "css/lightbox.css" -}}
+<script type="text/javascript" src="{{ $lightbox.RelPermalink }}"></script>
+<link rel="stylesheet" href="{{ $lightbox_css.RelPermalink }}">
+
+{{ $mediumzoom := resources.Get "js/medium-zoom.min.js" -}}
+<script src="{{ $mediumzoom.RelPermalink }}"></script>
