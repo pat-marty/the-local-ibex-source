@@ -1,0 +1,27 @@
+<style>
+    .image-gallery {overflow: auto; margin-top: 2em; margin-left: -5%!important; }
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block; border-radius: 7.5px}
+</style>
+
+{{/*  {{ $page_name := .Page.File.Dir }}
+{{ $dir := (printf "%s/" $page_name) }}  */}}
+
+{{ $dir := cond (eq (.Get "dir") nil) (printf "%s/" .Page.File.Dir) (printf "%s/" (.Get "dir")) }}
+
+<ul class="image-gallery">
+{{ range (readDir (printf "assets/images/%s" $dir)) }}
+{{/*  {{ range (readDir (printf "content/en/docs/hiking/test_tabs/")) }}  */}}
+  {{ if ne .Name ".DS_Store" }}
+    {{- $image := (resources.Get (printf "images/%s/%s" $dir .Name)) -}}
+    {{- $imagetitle := index (split .Name ".") 0 -}}
+    <li>
+      <a href="{{ ($image.Fit "1600x1600 q50").Permalink }}" title="{{ $imagetitle }}">
+        <img src="{{ ($image.Fill "300x300 q50").Permalink }}" alt="{{ $imagetitle }}" title="{{ $imagetitle }}">
+      </a>
+    </li>
+  {{ end }}  
+{{ end }}
+</ul>
