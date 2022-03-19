@@ -16,10 +16,7 @@ weight: 1
 
 <link href="../../../style.css" rel="stylesheet"></link>
 
-<p align="center">
-    <img src="../../../landing_banner.png" alt="" width="100%">
-    <em>Descent from the summit of the Üssers Barrhorn — one of our all-time favourite hikes.</em>
-</p>
+![](landing_banner.png "Descent from the summit of the Üssers Barrhorn — one of our all-time favourite hikes.")
 
 ## Welcome!
 
@@ -58,12 +55,12 @@ designations
 
 | Difficulty | Characteristics | Requirements |
 | :---: | :--- | :--- |
-| <hl>T1 Hike</hl> <img src="T1.png" alt="" width=50em class="center"> | <ul><li>Well constructed path/road</li><li>If present, exposed sections are very well secured</li><li>Danger of falling is under normal circumstances very minimal</li></ul> | <ul><li>Basic mobility</li><li>Running shoes are suitable</li><li>Navigation is unproblematic</li></ul> |
-| <hl>T2 Mountain Hike</hl> <img src="T2_T3.png" alt="" width=50em class="center"> | <ul><li>Trail with continuous path</li><li>Terrain is partly steep</li><li>Danger of falls not out of the question</li></ul> | <ul><li>Somewhat surefooted</li><li>Trekking shoes recommended</li><li>Elementary navigation skills</li></ul> |
-| <hl>T3 Difficult Mountain Hike</hl> <img src="T2_T3.png" alt="" width=50em class="center"> | <ul><li>Path not necessarily continuously visible</li><li>Exposed areas can be secured with ropes or chains</li><li>May need hands for balance</li><li>Some exposed areas with danger of falls</li><li>Scree plains</li></ul> | <ul><li>Surefooted</li><li>Good trekking shoes</li><li>Average orientation skills</li><li>Elementary alpine experience</li></ul> |
-| <hl>T4 Alpine Hike</hl> <img src="T4_T5.png" alt="" width=50em class="center"> | <ul><li>Potentially pathless</li><li>May need hands to traverse certain passages</li><li>Terrain is quite exposed and can contain steep grass slopes, crags, simple firn fields, and snowy glacier passages.</li></ul> | <ul><li>Familiar with exposed terrain</li><li>Sturdy trekking shoes</li><li>Strong terrain assessment and orientation skills</li><li>Alpine experience</li><li>If weather changes, it can be difficult to retreat</li></ul> |
-| <hl>T5 Difficult Alpine Hike</hl> <img src="T4_T5.png" alt="" width=50em class="center"> | <ul><li>Often pathless</li><li>Contain some easy climbing passages</li><li>Exposed and demanding terrain</li><li>Firn fields and glacier passages with increased exposure</li></ul> | <ul><li>Experience in high alpine terrain</li><li>Mountaineering boots</li><li>Very good terrain assessment and orientation skills</li><li>Basic knowledge of handling of ice axes and rope</li></ul> |
-| <hl>T6 Very Difficult Alpine Hike</hl> <sub>(Generally not marked)</sub> | <ul><li>Normally pathless</li><li>Moderately difficult climbing sections</li><li>Often extremely exposed</li><li>Precarious ridge passages</li><li>Glacier passages with increased exposure</li></ul> | <ul><li>Extensive high alpine experience</li><li>Excellent navigation skills</li><li>Experienced with various mountaineering tools</li></ul> |
+| <hl>T1 Hike</hl> <img src="T1.png" alt="" width=50em class="center no-round"> | <ul><li>Well constructed path/road</li><li>If present, exposed sections are very well secured</li><li>Danger of falling is under normal circumstances very minimal</li></ul> | <ul><li>Basic mobility</li><li>Running shoes are suitable</li><li>Navigation is unproblematic</li></ul> |
+| <hl>T2 Mountain Hike</hl> <img src="T2_T3.png" alt="" width=50em class="center no-round"> | <ul><li>Trail with continuous path</li><li>Terrain is partly steep</li><li>Danger of falls not out of the question</li></ul> | <ul><li>Somewhat surefooted</li><li>Trekking shoes recommended</li><li>Elementary navigation skills</li></ul> |
+| <hl>T3 Difficult Mountain Hike</hl> <img src="T2_T3.png" alt="" width=50em class="center no-round"> | <ul><li>Path not necessarily continuously visible</li><li>Exposed areas can be secured with ropes or chains</li><li>May need hands for balance</li><li>Some exposed areas with danger of falls</li><li>Scree plains</li></ul> | <ul><li>Surefooted</li><li>Good trekking shoes</li><li>Average orientation skills</li><li>Elementary alpine experience</li></ul> |
+| <hl>T4 Alpine Hike</hl> <img src="T4_T5.png" alt="" width=50em class="center no-round"> | <ul><li>Potentially pathless</li><li>May need hands to traverse certain passages</li><li>Terrain is quite exposed and can contain steep grass slopes, crags, simple firn fields, and snowy glacier passages.</li></ul> | <ul><li>Familiar with exposed terrain</li><li>Sturdy trekking shoes</li><li>Strong terrain assessment and orientation skills</li><li>Alpine experience</li><li>If weather changes, it can be difficult to retreat</li></ul> |
+| <hl>T5 Difficult Alpine Hike</hl> <img src="T4_T5.png" alt="" width=50em class="center no-round"> | <ul><li>Often pathless</li><li>Contain some easy climbing passages</li><li>Exposed and demanding terrain</li><li>Firn fields and glacier passages with increased exposure</li></ul> | <ul><li>Experience in high alpine terrain</li><li>Mountaineering boots</li><li>Very good terrain assessment and orientation skills</li><li>Basic knowledge of handling of ice axes and rope</li></ul> |
+| <div><hl>T6 Very Difficult Alpine Hike</hl></div> <div><sub>(Generally not marked)</sub></div> | <ul><li>Normally pathless</li><li>Moderately difficult climbing sections</li><li>Often extremely exposed</li><li>Precarious ridge passages</li><li>Glacier passages with increased exposure</li></ul> | <ul><li>Extensive high alpine experience</li><li>Excellent navigation skills</li><li>Experienced with various mountaineering tools</li></ul> |
 
 These difficulty ratings assume that the tour is performed <hl>under optimal conditions</hl>.  This means things like:
   - Good weather
@@ -94,6 +91,7 @@ be useful to know:
 - <hl>&#65343;spitz</hl>: Literally means "point"; does not really give an indication to how high the mountain is.
 - <hl>&#65343;joch</hl>: A saddle or gully between two peaks.
 - <hl>&#65343;pass</hl>: Usually a road that connects two valleys.  These often serve as connection points to go from one Canton to another.
+- <hl>&#65343;grat</hl>: Means "ridge".
 - <hl>&#65343;tal</hl>: Means "valley".
 - <hl>&#65343;gletscher</hl>: Means "glacier".
 - <hl>&#65343;firn</hl>: Snow that stays all-year round without melting but has not yet turned to ice to form a glacier.

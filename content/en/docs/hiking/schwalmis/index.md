@@ -23,10 +23,31 @@ menu:
 | Notable Locations | Schwalmis, Risetenstock |
 | Public Transit Access? | Yes |
 
-<p align="center">
-    <img src="IMG_4154.JPG" alt="" class="landscape">
-    <em>A view from the starting point (Gitschenen) up the valley towards the Brisen (peak on the right).</em>
-</p>
+![](IMG_4154.JPG)
+
+
+{{< tabs tabTotal="4" >}}
+{{% tab tabName="Overview" %}}
+
+## Quick Summary
+
+- A hike in the somewhat less-well-known valley of <hl>Isenthal</hl>
+- Took a small cable car to the starting point of the hike
+- Ascended two main peaks for the day:
+    - Schwalmis
+    - Risetenstock
+- There are a few exposed passages, notably:
+    - Traverse over the <hl>Glattgrat</hl> after the <hl>Risetenstock</hl>
+    - An extremely narrow path between the <hl>Schuenegg</hl> and the <hl>Steinalper Jochi</hl>
+
+{{% /tab %}}
+{{% tab tabName="Map" %}}
+
+## Coming soon...
+
+{{% /tab %}}
+{{% tab tabName="Detailed Description" %}}
+
 
 ## Arrival
 
@@ -40,10 +61,8 @@ There's a landline telephone in the cable car station that we had to use
 to request for the cable car to run — it's a little old-school, but it gets the
 job done.  We payed for the cable car ride once we got to the top.
 
-<p align="center">
-    <img src="IMG_4147.JPG" alt="" class="portrait">
-    <em>Cable car from St. Jakob to Gitschenen.</em>
-</p>
+![](IMG_4147.JPG "Cable car from St. Jakob to Gitschenen.")
+
 
 ## Schwalmis
 
@@ -72,92 +91,71 @@ After about 150 m of elevation gain, we'd reached the ridge which led to the
 very careful with our foot placement; slipping here would have be less than
 ideal.
 
-<p align="center">
-    <img src="IMG_4268.JPG" alt="" class="landscape">
-    <em>The ridge leading up to the Schwalmis.</em>
-</p>
+![](IMG_4268.JPG "The ridge leading up to the Schwalmis.")
 
 We didn't stay at the top for long — it was quite windy and a cloud swept in right as we got to the top.  We still had a nice view over the valley in one direction, but only a wall of fog in the other.
 
-<p align="center">
-    <img src="IMG_4329.JPG" alt="" class="landscape">
-    <em>From the top of the Schwalmis.</em>
-</p>
+![](IMG_4329.JPG "From the top of the Schwalmis.")
+
 
 ## Risetenstock
 
 The next peak of the day was the <hl>Risetenstock</hl>.  We had to back-track part of the way from the Schwalmis to get back to the path we were on near the marsh plain.
 
-<p align="center">
-    <img src="IMG_4285.JPG" alt="" class="landscape">
-    <em>View back from the ridge leading to the Schwalmis.  The Risetenstock is the one on the left.</em>
-</p>
+![](IMG_4285.JPG "View back from the ridge leading to the Schwalmis.  The Risetenstock is the one on the left.")
 
 Once we got back to the path near the marsh plain, there were two parallel paths
 that led to the <hl>Hinter Jochli</hl>.  We decided to take the one that
 was slightly further down into the valley since it seemed considerably less
 vulnerable to rockfalls.
 
-<p align="center">
-    <img src="IMG_4379.JPG" alt="" class="landscape">
-    <em>Cloud cover as seen from the Hinter Jochli.</em>
-</p>
+![](IMG_4379.JPG "Cloud cover as seen from the Hinter Jochli.")
 
 The last bit up to the <hl>Risetenstock</hl> was, again, pretty unproblematic.  The path itself was a little bit steep, but was otherwise not exposed.  We stopped for a quick lunch break at the top.
 
-<p align="center">
-    <img src="IMG_4392.JPG" alt="" class="portrait">
-    <em>Our lunch spot at the top of the Risetenstock; we had the peak entirely to ourselves.</em>
-</p>
+![](IMG_4392.JPG "Our lunch spot at the top of the Risetenstock; we had the peak entirely to ourselves.")
+
 
 ## Glattgrat
 
 The <hl>Glattgrat</hl> (which in German literally means "smooth ridge") was definitely the funnest portion of the hike.  Hiking directly on the ridge meant that the change in elevation was fairly minimal and the views were pretty incredible all the way.  It would have been nice being able to see down into the Isenthal, but having the clouds pushing their way right over the ridge while still having a clear view on the other side of the ridge was pretty mystical.
 
-<p align="center">
-    <img src="IMG_4410.JPG" alt="" class="landscape">
-    <em>The view from the top of the Risetenstock looking towards the Glattgrat (here on the left in the clouds).</em>
-</p>
+![](IMG_4410.JPG "The view from the top of the Risetenstock looking towards the Glattgrat (here on the left in the clouds).")
 
 Something that became apparent pretty quickly was where the Glattgrat gets its
 name from — there were quite a few spots with fairly smooth rock sections.
 While not normally problematic, we had to be mindful of our footing since all of
 the rocks were wet from the fog.
 
-<p align="center">
-    <img src="IMG_4428.JPG" alt="" class="portrait">
-    <em>Looking back onto part of the Glattgrat we'd already traversed.</em>
-</p>
+![](IMG_4428.JPG "Looking back onto part of the Glattgrat we'd already traversed.")
+
 
 ## Steinalper Jochli and Geissboden
 
 While we hadn't seen almost anyone on the path so far, we encountered quite a number of small groups once we got to the <hl>Schuenegg</hl>.  Most of these people seem to have come up from the Brisenhaus SAC hut and had the intention to go to the lookout point on the Brisen.
 
-<p align="center">
-    <img src="IMG_4460.JPG" alt="" class="landscape">
-    <em>From the end of the Glattgrat at the Schuenegg.  The path we took continued towards the Brisen (peak in the center of the frame) and can be seen on the right-hand side of the image.</em>
-</p>
+![](IMG_4460.JPG "From the end of the Glattgrat at the Schuenegg.  The path we took continued towards the Brisen (peak in the center of the frame) and can be seen on the right-hand side of the image.")
 
 The brief traverse from the <hl>Schuenegg</hl> to the <hl>Steinalper Jochi</hl> was by far the most exposed part of the hike.  The path is quite narrow and follows one of the natural rock-bands on the mountain face.  I've drawn the approximate path in below:
 
-<p align="center">
-    <img src="IMG_4470_path.png" alt="" class="landscape">
-    <em>The traverse from the Schuenegg (right) to the Steinalper Jochi (left).</em>
-</p>
+![](IMG_4470_path.png "The traverse from the Schuenegg (right) to the Steinalper Jochi (left).")
 
 The hike from here down the valley towards <hl>Geissboden</hl> was pretty chill.
 We came across a herd of sheep that were being protected by a few Great Pyrenees
 mountain dogs, so we made sure to steer clear of them on our descent.
 
-<p align="center">
-    <img src="IMG_4473.JPG" alt="" class="portrait">
-    <em>View down the valley towards Geissboden.</em>
-</p>
+![](IMG_4473.JPG "View down the valley towards Geissboden.")
 
 From Geissboden we followed a gravel road back to <hl>Gitschenen</hl>.  We took
 the same cable car back down to return to where we'd parked our car.
 
-<p align="center">
-    <img src="IMG_4501.JPG" alt="" class="landscape">
-    <em>The final portion of the hike back to Gitschenen.</em>
-</p>
+![](IMG_4501.JPG "The final portion of the hike back to Gitschenen.")
+
+
+{{% /tab %}}
+{{% tab tabName="Gallery" %}}
+
+{{< image-gallery >}}
+
+{{% /tab %}}
+{{< /tabs >}}

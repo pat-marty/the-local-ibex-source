@@ -23,10 +23,32 @@ menu:
 | Notable Locations | Sustlihütte SAC, Guferjoch, Sustenlochfirn, Sustenpass |
 | Public Transit Access? | Yes |
 
-<p align="center">
-    <img src="IMG_4745.JPG" alt="" class="landscape">
-    <em>An incredible hike near the Sustenpass on the border between Bern and Uri.</em>
-</p>
+![](IMG_4745.JPG "An incredible hike near the <hl>Sustenpass</hl> on the border between Bern and Uri.")
+
+
+{{< tabs tabTotal="4" >}}
+{{% tab tabName="Overview" %}}
+
+## Quick Summary
+
+- Drove to the <hl>Sustenbrüggli</hl> close to the top of the <hl>Sustenpass</hl>
+- Hiked up the <hl>Leiterweg</hl> to the <hl>Sustlihütte SAC</hl>
+- Traversed along the valley following the alpine trail towards the base of the <hl>Guferjoch</hl>
+- Ascended the Guferjoch from the eastern side
+    - The ascent was secured with chains, but was very exposed
+- Descended the Guferjoch on the western side onto the <hl>Sustenlochfirn</hl>
+    - Similar to the ascent, the descent was also very exposed and had several near-vertical scrambling passages
+- Took the "new" path over the <hl>Sustenlochfirn</hl>
+- Followed the trail to the <hl>Sustenpass</hl>
+- Hiked along the retired pass road back to where we parked at the <hl>Sustenbrüggli</hl>
+
+{{% /tab %}}
+{{% tab tabName="Map" %}}
+
+## Coming soon...
+
+{{% /tab %}}
+{{% tab tabName="Detailed Description" %}}
 
 ## Arrival
 
@@ -38,10 +60,8 @@ morning.
 
 Alternatively, we could have arrived the evening before and stayed at the <hl>Sustlihütte SAC</hl> to get an early start the next morning.
 
-<p align="center">
-    <img src="IMG_4568.JPG" alt="" class="portrait">
-    <em>The view from the parking lot.  The autumn colours at this time of year are truly beautiful.</em>
-</p>
+![](IMG_4568.JPG "The view from the parking lot.  The autumn colours at this time of year are truly beautiful.")
+
 
 ## Sustlihütte SAC (Leiterweg)
 
@@ -76,35 +96,25 @@ Although the Leiterweg had been marked as a regular hiking path
 (white-red-white markings), the path as we continued on from the Sustlihütte SAC
 changed over to an alpine path (white-blue-white markings).
 
-<p align="center">
-    <img src="IMG_4644.JPG" alt="" class="landscape">
-    <em>A view back to the <hl>Sustlihütte SAC</hl> which was still in the shadows of the morning sun.</em>
-</p>
+![](IMG_4644.JPG "A view back to the <hl>Sustlihütte SAC</hl> which was still in the shadows of the morning sun.")
+
 
 ## Traverse Across the Stöss
 
 The hike from the Sustlihütte SAC to the base of the <hl>Guferjoch</hl> was a ton of fun.  Beautiful views, fun terrain, not a soul around...  Just an all around great trail.  There were one or two slightly exposed spots along the traverse along the <hl>Stöss</hl>, but the path overall was fairly well marked.
 
-<p align="center">
-    <img src="IMG_4707.JPG" alt="" class="landscape">
-    <em>About half way between the <hl>Sustlihütte SAC</hl> and the <hl>Guferjoch</hl>.  The Guferjoch is one of the chimneys on the right-hand side of the image.</em>
-</p>
+![](IMG_4707.JPG "About half way between the <hl>Sustlihütte SAC</hl> and the <hl>Guferjoch</hl>.  The Guferjoch is one of the chimneys on the right-hand side of the image.")
 
 The dramatic shadows down the valley were truly incredible.
 
-<p align="center">
-    <img src="IMG_4783.JPG" alt="" class="landscape">
-    <em>Looking down the valley towards Wassen.</em>
-</p>
+![](IMG_4783.JPG "Looking down the valley towards Wassen.")
+
 
 ## Ascent to the Guferjoch
 
 As is the case with many mountain paths, the exact path along the Stöss to the Guferjoch is not very apparent from the vantage point of the Sustlihütte.  Here's the approximate path to reach the Guferjoch:
 
-<p align="center">
-    <img src="guferjoch_annotated_1.png" alt="" class="portrait">
-    <em>The approximate path leading to the <hl>Guferjoch</hl>.</em>
-</p>
+![](guferjoch_annotated_1.png "The approximate path leading to the <hl>Guferjoch</hl>.")
 
 While most of the path so far had been in the realm of
 [T3](../overview/#wanderskala), the ascent to the Guferjoch seems to typically
@@ -112,32 +122,20 @@ be rated at around a [T4+](../overview/#wanderskala).  There were a number of
 fairly sketchy scrambling passages which are largely secured by chains and steel
 cables.  The approximate route up the rock-face to the joch can be seen here:
 
-<p align="center">
-    <img src="guferjoch_annotated_2.png" alt="" class="landscape">
-    <em>The ascent to the <hl>Guferjoch</hl>.</em>
-</p>
+![](guferjoch_annotated_2.png "The ascent to the <hl>Guferjoch</hl>.")
 
 The first portion of the scramble was secured by a single long steel wire.  This
 wire made the first part of the ascent considerably easier since good handholds
 were somewhat tricky to find in places due to the rocks having been smoothed
 considerably from glacial erosion.
 
-<p align="center">
-    <img src="IMG_4841.JPG" alt="" class="portrait">
-    <em>The first portion of the ascent which is secured by a single (long) steel wire.</em>
-</p>
+![](IMG_4841.JPG "The first portion of the ascent which is secured by a single (long) steel wire.")
 
 Following this first scramble, we traversed to the right-hand side of the rock-face, which was secured by a number of chains.
 
-<p align="center">
-    <img src="IMG_4842.JPG" alt="" class="portrait">
-    <em>The second portion of the ascent which requires a traverse to the right-hand side of the rock-face.</em>
-</p>
+![](IMG_4842.JPG "The second portion of the ascent which requires a traverse to the right-hand side of the rock-face.")
 
-<p align="center">
-    <img src="IMG_4843.JPG" alt="" class="landscape">
-    <em>The terrain here is quite exposed; the chains/cables were key for this portion of the ascent.</em>
-</p>
+![](IMG_4843.JPG "The terrain here is quite exposed; the chains/cables were key for this portion of the ascent.")
 
 The third and final traverse moved back to the left-hand side of the face, back
 towards the joch.  This was by far the most challenging part of the ascent due
@@ -145,57 +143,45 @@ to there being several small near-vertical scrambling sections.
 
 Once at the top, we were greeted with an incredible view over both sides of the valley — the sweat it took to get up here was definitely worth it!
 
-<p align="center">
-    <img src="IMG_4849.JPG" alt="" class="portrait">
-    <em>The <hl>Guferjoch</hl>.</em>
-</p>
-<p align="center">
-    <img src="IMG_4854.JPG" alt="" class="landscape">
-    <em>The view towards the <hl>Sustenpass</hl> with the <hl>Sustenhorn</hl> to the left of the <hl>Steigletscher</hl>.</em>
-</p>
+![](IMG_4849.JPG "The <hl>Guferjoch</hl>.")
+
+![](IMG_4854.JPG "The view towards the <hl>Sustenpass</hl> with the <hl>Sustenhorn</hl> to the left of the <hl>Steigletscher</hl>.")
+
 
 ## Descent to the Sustenlochfirn
 
 The descent from the Guferjoch to the <hl>Sustenlochfirn</hl> was somewhat similar to the ascent to the Guferjoch with most of the route being secured by chains.  There are again a few near-vertical sections that were quite tricky to traverse here.  The approximate route can be seen below:
 
-<p align="center">
-    <img src="guferjoch_annotated_3.png" alt="" class="portrait">
-    <em>The descent from the <hl>Guferjoch</hl> to the <hl>Sustenlochfirn</hl>.  Note that the upper part of the descent (part indicated with a dashed line) is not visible from this perspective.</em>
-</p>
+![](guferjoch_annotated_3.png "The descent from the <hl>Guferjoch</hl> to the <hl>Sustenlochfirn</hl>.  Note that the upper part of the descent (part indicated with a dashed line) is not visible from this perspective.")
 
 Something that became apparent to us when we got down to the <hl>Sustenlochfirn</hl> was that there are two paths we could have taken across the firn.  The first (older) path went part way across the firn, over the rock, and then back onto the firn.  However, two hikers that we met on our way down from the joch suggested to us that we follow the (new) path, which leads all the way across the firn.
 
-<p align="center">
-    <img src="IMG_4875.JPG" alt="" class="landscape">
-    <em>The "new" path going across the <hl>Sustenlochfirn</hl>.</em>
-</p>
+![](IMG_4875.JPG "The ''new'' path going across the <hl>Sustenlochfirn</hl>.")
+
 
 ## Sustenpass
 
 The hike back to the <hl>Sustenpass</hl> was considerably more relaxed than the ascent/descent to the <hl>Guferjoch</hl>.  There were quite a few snowfields that needed crossing, but none of them were exposed.
 
-<p align="center">
-    <img src="IMG_4896.JPG" alt="" class="landscape">
-    <em>There are several additional snowfields that need crossing on the way back to the <hl>Sustenpass</hl>.</em>
-</p>
+![](IMG_4896.JPG "There are several additional snowfields that need crossing on the way back to the <hl>Sustenpass</hl>.")
 
 The path was generally well marked, both on the path and when crossing the snowfields.  Note that some of the portions across some of the snowfields were marked by Steimännli (deliberately placed piles of rocks) as opposed to white-blue-white markings.
 
-<p align="center">
-    <img src="IMG_4906.JPG" alt="" class="landscape">
-    <em>Gorgeous views all the way back to the <hl>Sustenpass</hl>.</em>
-</p>
+![](IMG_4906.JPG "Gorgeous views all the way back to the <hl>Sustenpass</hl>.")
 
-<p align="center">
-    <img src="IMG_4941.JPG" alt="" class="landscape">
-    <em>Been there, done that ;)</em>
-</p>
+![](IMG_4941.JPG "Been there, done that ;)")
+
 
 ## Return via 19th Century Pass Road
 
 Once we got to the <hl>Sustenpass</hl>, we walked along the old 19th century pass road to get back to <hl>Sustenbrüggli</hl>.  This was a nice chill way to end an otherwise (fairly) strenuous hike.  It's also very impressive to see the engineering they already had back in the day.
 
-<p align="center">
-    <img src="IMG_4962.JPG" alt="" class="landscape">
-    <em>Taking the old pass road to return to <hl>Sustenbrüggli</hl>.</em>
-</p>
+![](IMG_4962.JPG "Taking the old pass road to return to <hl>Sustenbrüggli</hl>.")
+
+{{% /tab %}}
+{{% tab tabName="Gallery" %}}
+
+{{< image-gallery >}}
+
+{{% /tab %}}
+{{< /tabs >}}

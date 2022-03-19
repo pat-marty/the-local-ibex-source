@@ -28,10 +28,8 @@ menu:
     <img src="IMG_3005.JPG" alt="" class="landscape">
 </p>
 
-<!-- <p align="center">
-    <img src=".JPG" alt="" class="landscape">
-    <em></em>
-</p> -->
+{{< tabs tabTotal="4" >}}
+{{% tab tabName="Overview" %}}
 
 ## Quick Summary
 
@@ -39,13 +37,23 @@ menu:
 - There is a PostAuto that fairly regularly goes up to the top of the Grimselpass.
   - PostAuto stop <hl>Grimsel Passhöhe</hl>
   - Lots of parking is also available at a number of parking lots close to the top of the pass.
-- Generally unproblematic but a few spots can be a little sketchy when ice/snow covered.
+- Generally unproblematic but a few spots were a little sketchy since they were ice covered.
 - Incredible panorama with view of:
   - <hl>Grimselpass</hl>
   - <hl>Furkapass</hl>
   - <hl>Oberaarhorn</hl>
   - <hl>Grimselsee</hl> and <hl>Oberaarsee</hl>
   - Probably lots of other places if you visit on a clear day
+
+{{% /tab %}}
+{{% tab tabName="Map" %}}
+
+<div class="aspect-ratio">
+    <iframe src='https://map.geo.admin.ch/embed.html?topic=ech&lang=en&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.astra.wanderland-sperrungen_umleitungen,GPX%7C%7Chttps:%2F%2Fpat-marty.github.io%2Fthe-local-ibex%2Fdocs%2Fhiking%2Fsidelhorn%2Fsidelhorn.gpx&layers_opacity=1,1,1,0.8,0.8,1&layers_visibility=false,false,false,false,true,true&layers_timestamp=18641231,,,,,&E=2667379.74&N=1156524.30&zoom=6.968594761554028'></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab tabName="Detailed Description" %}}
 
 ## A Very Foggy Approach
 
@@ -124,3 +132,11 @@ menu:
     <img src="IMG_3290.JPG" alt="" class="landscape">
     <em>The final descent back to the <hl>Grimselpass</hl>.</em>
 </p>
+
+{{% /tab %}}
+{{% tab tabName="Gallery" %}}
+
+{{< image-gallery >}}
+
+{{% /tab %}}
+{{< /tabs >}}
