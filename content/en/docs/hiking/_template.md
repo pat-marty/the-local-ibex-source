@@ -24,11 +24,29 @@ menu:
 | Public Transit Access? | Yes |
 <!-- | Map Download | [PDF](.pdf), [GPX](.gpx) | -->
 
-<!-- <p align="center">
-    <img src=".JPG" alt="" class="landscape">
-    <em></em>
-</p> -->
+
+
+{{< tabs tabTotal="4" >}}
+{{% tab tabName="Overview" %}}
 
 ## Quick Summary
 
 - Placeholder
+
+{{% /tab %}}
+{{% tab tabName="Map" %}}
+
+## Coming soon...
+
+{{% /tab %}}
+{{% tab tabName="Detailed Description" %}}
+
+
+
+{{% /tab %}}
+{{% tab tabName="Gallery" %}}
+
+{{< image-gallery >}}
+
+{{% /tab %}}
+{{< /tabs >}}
