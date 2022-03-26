@@ -68,8 +68,8 @@ $navbar-dark-active-color:          $link-color-dark;
 [data-dark-mode] body .doks-sidebar-toggle {
   // color: $navbar-dark-color;
   // background-color: $button-color-dark;
-  color: $secondary;
-  border: 2px solid $secondary;
+  color: $link-color-dark;
+  border: 2px solid $link-color-dark;
 }
 
 [data-dark-mode] body .btn-menu:hover,
@@ -540,14 +540,14 @@ $navbar-dark-active-color:          $link-color-dark;
 
   [data-dark-mode] .nav-tabs .nav-link.active {
     background-color: $body-overlay-dark;
-    border-color: $secondary;
-    color: $color-btn-text;
+    border-color: $link-color-dark;
+    color: $link-color-dark;
   }
   
   [data-dark-mode] .nav-tabs .nav-link:hover {
     background-color: $body-overlay-dark;
-    border-color: $secondary;
-    color: $color-btn-text;
+    border-color: $link-color-dark;
+    color: $link-color-dark;
     text-decoration: none;
   }
 }

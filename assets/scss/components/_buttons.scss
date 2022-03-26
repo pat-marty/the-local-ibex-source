@@ -246,15 +246,15 @@ pre {
   }
 
   .nav-tabs .nav-link.active {
-    background-color: $pink-100;
-    color: $secondary;
-    border-color: $secondary;
+    background-color: $primary_transparent;
+    color: $primary;
+    border-color: $primary;
   }
   
   .nav-tabs .nav-link:hover {
-    background-color: $pink-100;
-    border-color: $secondary;
-    color: $secondary;
+    background-color: $primary_transparent;
+    border-color: $primary;
+    color: $primary;
     text-decoration: none;
   }
 }
