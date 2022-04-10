@@ -43,7 +43,9 @@ menu:
 {{% /tab %}}
 {{% tab tabName="Map" %}}
 
-## Coming soon...
+<div class="aspect-ratio">
+  <iframe src='https://map.geo.admin.ch/embed.html?topic=ech&lang=en&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.astra.wanderland-sperrungen_umleitungen,GPX%7C%7Chttps:%2F%2Fpat-marty.github.io%2Fthe-local-ibex%2Fdocs%2Fhiking%2Fnepali_highway%2Fnepali_highway.gpx&layers_opacity=1,1,1,0.8,0.8,1&layers_visibility=false,false,false,false,false,true&layers_timestamp=18641231,,,,,&E=2676708.96&N=1160531.72&zoom=5' width='400' height='300' frameborder='0' style='border:0' allow='geolocation'></iframe>
+</div>
 
 {{% /tab %}}
 {{% tab tabName="Detailed Description" %}}
