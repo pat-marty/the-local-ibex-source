@@ -242,13 +242,16 @@ pre {
     background-color: transparent;
     border-radius: 0.25rem;
     border-width: 2px;
+    border-color: $gray-100;
     color: $black;
+    margin: 1px;
   }
 
   .nav-tabs .nav-link.active {
     background-color: $primary_transparent;
     color: $primary;
     border-color: $primary;
+    z-index: 1;
   }
   
   .nav-tabs .nav-link:hover {
