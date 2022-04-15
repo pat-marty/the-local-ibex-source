@@ -62,7 +62,7 @@ menu:
 {{% /tab %}}
 {{% tab tabName="Map" %}}
 
-### Coming soon...
+{{% map gpx="barrhorn_1" E="2619866" N="1113270" zoom="6" %}}
 
 {{% map_download "barrhorn_1" %}}
 
@@ -132,7 +132,7 @@ menu:
 {{% /tab %}}
 {{% tab tabName="Map" %}}
 
-### Coming soon...
+{{% map gpx="barrhorn_2" E="2621535" N="1111239" zoom="6.5" %}}
 
 {{% map_download "barrhorn_2" %}}
 
@@ -226,7 +226,7 @@ menu:
 {{% /tab %}}
 {{% tab tabName="Map" %}}
 
-### Coming soon...
+{{% map gpx="barrhorn_3" E="2620920" N="1115027" zoom="5.5" %}}
 
 {{% map_download "barrhorn_3" %}}
 

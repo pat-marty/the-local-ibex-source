@@ -1,6 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
+baseurl = "https://pat-marty.github.io/the-local-ibex/"
 title = "The Local Ibex"
 titleSeparator = "-"
 titleAddition = "Exploring Switzerland"

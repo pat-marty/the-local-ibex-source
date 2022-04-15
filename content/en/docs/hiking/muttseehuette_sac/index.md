@@ -45,7 +45,7 @@ menu:
 {{% /tab %}}
 {{% tab tabName="Map" %}}
 
-## Coming soon...
+{{% map E="2719587" N="1190731" zoom="6" %}}
 
 {{% map_download %}}
 

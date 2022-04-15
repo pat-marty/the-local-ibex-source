@@ -47,9 +47,7 @@ menu:
 {{% /tab %}}
 {{% tab tabName="Map" %}}
 
-<div class="aspect-ratio">
-    <iframe src='https://map.geo.admin.ch/embed.html?topic=ech&lang=en&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.astra.wanderland-sperrungen_umleitungen,GPX%7C%7Chttps:%2F%2Fpat-marty.github.io%2Fthe-local-ibex%2Fdocs%2Fhiking%2Fsidelhorn%2Fsidelhorn.gpx&layers_opacity=1,1,1,0.8,0.8,1&layers_visibility=false,false,false,false,true,true&layers_timestamp=18641231,,,,,&E=2667379.74&N=1156524.30&zoom=6.968594761554028'></iframe>
-</div>
+{{% map E="2667379" N="1156524" zoom="6.5" %}}
 
 {{% map_download %}}
 
