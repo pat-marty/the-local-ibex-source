@@ -1,0 +1,5 @@
+{{ $gpx_path := cond (eq (.Get 0) nil) (printf "%s" .Page.File.Dir) (printf "%s" (.Get 0)) }}
+
+<div class="text-center">
+    <a class="btn btn-primary btn-md px-4 mb-2" href="{{ path.Base $gpx_path }}.gpx" role="button">Download GPX</a>
+</div>
