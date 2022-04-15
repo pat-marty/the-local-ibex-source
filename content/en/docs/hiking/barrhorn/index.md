@@ -18,12 +18,11 @@ menu:
 | Difficulty | [T3+](../overview/#wanderskala) |
 | :--- | :--- |
 | Numer of Days | 3 |
-| &#8644; Total Distance | 25.1 km |
-| &#8593; Up | 1860 m |
-| &#8595; Down | 1920 m |
+| &#8644; Total Distance | 24.9 km |
+| &#8593; Up | 1820 m |
+| &#8595; Down | 1880 m |
 | Notable Locations | Turtmannhütte SAC, Üssers Barrhorn, Schöllijoch, Gruben |
 | Public Transit Access? | Yes |
-<!-- | Map Download | [PDF](.pdf), [GPX](.gpx) | -->
 
 ![](IMG_5671.JPG)
 
@@ -44,7 +43,6 @@ menu:
 | &#8595; Down | 0 m |
 | Notable Locations | Vorder Sänntum, Turtmannsee, Turtmannhütte SAC |
 | Public Transit Access? | Yes |
-<!-- | Map Download | [PDF](.pdf), [GPX](.gpx) | -->
 
 ![](IMG_5615.JPG)
 
@@ -65,6 +63,8 @@ menu:
 {{% tab tabName="Map" %}}
 
 ### Coming soon...
+
+{{% map_download "barrhorn_1" %}}
 
 {{% /tab %}}
 {{% tab tabName="Detailed Description" %}}
@@ -109,9 +109,9 @@ menu:
 
 | Difficulty | [T3+](../overview/#wanderskala) |
 | :--- | :--- |
-| &#8644; Distance | 9.9 km |
-| &#8593; Up | 1050 m |
-| &#8595; Down | 1050 m |
+| &#8644; Distance | 9.6 km |
+| &#8593; Up | 1010 m |
+| &#8595; Down | 1010 m |
 | Notable Locations | Turtmannhütte SAC, Üssers Barrhorn, Schöllijoch |
 | Public Transit Access? | N/A |
 <!-- | Map Download | [PDF](.pdf), [GPX](.gpx) | -->
@@ -133,6 +133,8 @@ menu:
 {{% tab tabName="Map" %}}
 
 ### Coming soon...
+
+{{% map_download "barrhorn_2" %}}
 
 {{% /tab %}}
 {{% tab tabName="Detailed Description" %}}
@@ -204,7 +206,7 @@ menu:
 
 | Difficulty | [T2](../overview/#wanderskala) |
 | :--- | :--- |
-| &#8644; Distance | 9.5 km |
+| &#8644; Distance | 9.7 km |
 | &#8593; Up | 220 m |
 | &#8595; Down | 870 m |
 | Notable Locations | Turtmannhütte SAC, Ämser Schafalpu, Gruben |
@@ -225,6 +227,8 @@ menu:
 {{% tab tabName="Map" %}}
 
 ### Coming soon...
+
+{{% map_download "barrhorn_3" %}}
 
 {{% /tab %}}
 {{% tab tabName="Detailed Description" %}}

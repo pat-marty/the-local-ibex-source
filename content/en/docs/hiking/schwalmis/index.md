@@ -45,6 +45,8 @@ menu:
 
 ## Coming soon...
 
+{{% map_download %}}
+
 {{% /tab %}}
 {{% tab tabName="Detailed Description" %}}
 
