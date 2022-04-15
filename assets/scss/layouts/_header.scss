@@ -401,15 +401,16 @@ button#doks-versions {
   padding-right: 0.25rem;
   padding-left: 0.25rem;
   margin-right: -0.5rem;
-  color: $primary;
+  color: $body-bg;
+  background-color: $primary;
   border: 2px solid $primary;
 }
 
 .btn-menu:hover,
 .btn-doks-light:hover,
 .doks-sidebar-toggle:hover {
-  background: $primary_transparent;
-  color: $primary;
+  background: $primary;
+  color: $body-bg;
 }
 
 .btn-menu:focus,
@@ -418,7 +419,7 @@ button#doks-versions {
 }
 
 .doks-sidebar-toggle:focus {
-  color: $primary;
+  color: $body-bg;
   border: 2px solid $primary;
 }
 

@@ -241,23 +241,23 @@ pre {
   .nav-tabs .nav-link {
     background-color: transparent;
     border-radius: 0.25rem;
-    border-width: 2px;
-    border-color: $gray-100;
+    border-width: 1px;
+    border-color: $border-color;
     color: $black;
     margin: 1px;
   }
 
   .nav-tabs .nav-link.active {
-    background-color: $primary_transparent;
-    color: $primary;
-    border-color: $primary;
+    background-color: $color-btn-bg;
+    color: $color-btn-text;
+    border-color: transparent;
     z-index: 1;
   }
   
   .nav-tabs .nav-link:hover {
-    background-color: $primary_transparent;
-    border-color: $primary;
-    color: $primary;
+    background-color: $color-btn-bg;
+    border-color: transparent;
+    color: $color-btn-text;
     text-decoration: none;
   }
 }
