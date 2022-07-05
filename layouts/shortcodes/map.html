@@ -1,10 +1,10 @@
 {{ $prefix := "https://map.geo.admin.ch/embed.html?topic=ech&lang=en&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.astra.wanderland-sperrungen_umleitungen,GPX%7C%7C" }}
 {{ $gpx_name := cond (or (eq (.Get "gpx") nil) (eq (.Get "gpx") "")) (printf "%s" (path.Base .Page.File.Dir)) (printf "%s" (.Get "gpx")) }}
-{{ $gpx_url := strings.Replace (printf "%s%s%s.gpx" .Site.Params.baseurl .Page.Dir $gpx_name) "/" "%2F" }}
+{{ $gpx_url := strings.Replace (printf "%s%s%s.gpx" .Site.Params.baseurl .Page.File.Dir $gpx_name) "/" "%2F" }}
 {{ $suffix := printf "&layers_opacity=1,1,1,0.8,0.8,1&layers_visibility=false,false,false,false,false,true&layers_timestamp=0,,,,,&E=%s&N=%s&zoom=%s" (.Get "E") (.Get "N") (.Get "zoom") }}
 {{ $iframe_src := printf "%s%s%s" $prefix $gpx_url $suffix }}
 
-{{ if (os.FileExists (printf "%s%s.gpx" .Page.Dir $gpx_name)) }}
+{{ if (os.FileExists (printf "%s%s.gpx" .Page.File.Dir $gpx_name)) }}
 
 <div class="aspect-ratio">
     <iframe src="{{ $iframe_src }}"></iframe>

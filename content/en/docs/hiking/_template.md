@@ -6,8 +6,8 @@ authors: ['Pat', 'Bruno']
 tags:
 categories: 'T'
 series:
-date: '2021-08-28'
-lastmod: '2021-11-21'
+date: '2000-12-31'
+lastmod: ''
 draft: true
 menu:
   docs:
@@ -22,8 +22,6 @@ menu:
 | &#8595; Down |  m |
 | Notable Locations |  |
 | Public Transit Access? | Yes |
-<!-- | Map Download | [PDF](.pdf), [GPX](.gpx) | -->
-
 
 
 {{< tabs tabTotal="4" >}}
@@ -35,10 +33,6 @@ menu:
 
 {{% /tab %}}
 {{% tab tabName="Map" %}}
-
-<div class="aspect-ratio">
-  
-</div>
 
 {{% map_download %}}
 
