@@ -4,23 +4,23 @@
   identifier = "hiking"
   url = "docs/hiking/"
 
-[[docs]]
-  name = "Mountain Biking"
-  weight = 2
-  identifier = "mountain_biking"
-  url = "docs/mountain_biking/"
+# [[docs]]
+#   name = "Mountain Biking"
+#   weight = 2
+#   identifier = "mountain_biking"
+#   url = "docs/mountain_biking/"
 
-[[docs]]
-  name = "Backcountry Skiing"
-  weight = 3
-  identifier = "backcountry_skiing"
-  url = "docs/backcountry_skiing/"
+# [[docs]]
+#   name = "Backcountry Skiing"
+#   weight = 3
+#   identifier = "backcountry_skiing"
+#   url = "docs/backcountry_skiing/"
 
-[[docs]]
-  name = "Snowshoeing"
-  weight = 4
-  identifier = "snowshoeing"
-  url = "docs/snowshoeing/"
+# [[docs]]
+#   name = "Snowshoeing"
+#   weight = 4
+#   identifier = "snowshoeing"
+#   url = "docs/snowshoeing/"
 
 # [[main]]
 #   name = "Explore"
@@ -32,20 +32,20 @@
   url = "docs/hiking/overview"
   weight = 10
 
-[[main]]
-  name = "Mountain Biking"
-  url = "docs/mountain_biking/overview"
-  weight = 11
+# [[main]]
+#   name = "Mountain Biking"
+#   url = "docs/mountain_biking/overview"
+#   weight = 11
 
-[[main]]
-  name = "Backcountry Skiing"
-  url = "docs/backcountry_skiing/overview"
-  weight = 12
+# [[main]]
+#   name = "Backcountry Skiing"
+#   url = "docs/backcountry_skiing/overview"
+#   weight = 12
 
-[[main]]
-  name = "Snowshoeing"
-  url = "docs/snowshoeing/overview"
-  weight = 13
+# [[main]]
+#   name = "Snowshoeing"
+#   url = "docs/snowshoeing/overview"
+#   weight = 13
 
 [[main]]
   name = "Blog & Recent Tours"
