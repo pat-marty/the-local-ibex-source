@@ -20,7 +20,7 @@ menu:
 | &#8644; Distance | 10.8 km |
 | &#8593; Up | 350 m |
 | &#8595; Down | 670 m |
-| Notable Locations | Furkapass, Sidelenhütte SAC, Nepali Highway, Albert-Heim Hütte SAC, Schafberg, Tiefenbach |
+| Notable Locations | Furkapass, Sidelenhütte, Nepali Highway, Albert-Heim Hütte SAC, Schafberg, Tiefenbach |
 | Public Transit Access? | Yes |
 
 ![](IMG_7019.JPG)
@@ -33,7 +33,7 @@ menu:
 - A gorgeous hike near the <hl>Furkapass</hl>.
 - Parked the car near <hl>Tiefenbach</hl>, which is close to the top of the <hl>Furkapass</hl>.
   - Took the PostAuto from "<hl>Tiefenbach (Furka)</hl>" up to the stop "<hl>Furkapass, Hotel Furkablick</hl>".
-- Hiked from the <hl>Furkapass</hl> to the <hl>Sidelenhütte SAC</hl>.
+- Hiked from the <hl>Furkapass</hl> to the <hl>Sidelenhütte</hl>.
 - Took the Blue-White-Blue marked path known as the "<hl>Nepali Highway</hl>" to the base of the <hl>Tiefengletscher</hl>.
 - After a stop at the lake at the terminus of the <hl>Tiefengletscher</hl>, we hiked to the <hl>Albert-Heim Hütte SAC</hl>.
 - Continued to the top of the <hl>Schafberg</hl>.
@@ -50,7 +50,7 @@ menu:
 {{% /tab %}}
 {{% tab tabName="Detailed Description" %}}
 
-## Sidelenhütte SAC
+## Sidelenhütte
 
 ![](IMG_6921.JPG "The view northward from the top of the <hl>Furkapass</hl>.") 
 
