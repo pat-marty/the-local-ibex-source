@@ -16,7 +16,7 @@ weight: 1
 
 <link href="../../../style.css" rel="stylesheet"></link>
 
-![](landing_banner.png "Descent from the summit of the Üssers Barrhorn — one of our all-time favourite hikes.")
+![](landing_banner_3.JPG "There's no place quite like the mountains.")
 
 ## Welcome!
 
