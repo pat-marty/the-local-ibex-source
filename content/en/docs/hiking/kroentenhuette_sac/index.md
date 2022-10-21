@@ -22,7 +22,6 @@ menu:
 | &#8595; Down | 1060 m |
 | Notable Locations | Erstfeldertal, Kröntenhütte SAC |
 | Public Transit Access? | No[^1] |
-<!-- | Map Download | [PDF](.pdf), [GPX](.gpx) | -->
 
 ![](IMG_1975.JPG)
 

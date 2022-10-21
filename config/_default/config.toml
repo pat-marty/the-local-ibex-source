@@ -1,4 +1,4 @@
-baseurl = "https://pat-marty.github.io/the-local-ibex/"
+baseurl = "https://www.thelocalibex.com/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
