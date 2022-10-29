@@ -1,4 +1,10 @@
 {{ $image := .Page.Resources.GetMatch .Destination -}}
+
+{{/*  If the image could not be found, try fetching it from the global `assets/images directory instead  */}}
+{{ if eq $image nil }}
+  {{ $image = resources.Get .Destination }}
+{{ end }}
+
 {{ $lqip := $image.Resize site.Params.lqipWidth -}}
 
 {{ $imgSrc := "" -}}

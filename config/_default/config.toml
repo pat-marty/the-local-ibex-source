@@ -49,6 +49,10 @@ isPlainText = true
 noUgly = true
 rel  = "sitemap"
 
+[imaging]
+  resampleFilter = 'Lanczos'
+  quality = 100
+
 [caches]
   [caches.getjson]
     dir = ":cacheDir/:project"
