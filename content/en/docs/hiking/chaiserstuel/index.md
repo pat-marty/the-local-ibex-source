@@ -1,6 +1,6 @@
 ---
 title: Chaiserstuel
-description: A beautiful hike through the meadows.
+description: A beautiful hike through the meadows on the Nidwalden-Uri border.
 toc: true
 authors: ['Pat', 'Bruno']
 tags:
@@ -9,6 +9,8 @@ series:
 date: '2022-07-10'
 lastmod: ''
 draft: false
+banner: 'chaiserstuel_37.JPG'
+add_to_recent_tours: true
 menu:
   docs:
     parent: "hiking"

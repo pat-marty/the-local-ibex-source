@@ -1,6 +1,6 @@
 ---
 title: Bächlitalhütte SAC
-description: 
+description: A foggy hike to the Bächlitalhütte SAC in southern Bern.
 toc: true
 authors: ['Pat', 'Bruno']
 tags:
@@ -9,6 +9,8 @@ series:
 date: '2021-08-08'
 lastmod: '2022-01-02'
 draft: false
+banner: 'IMG_1542.JPG'
+add_to_recent_tours: true
 menu:
   docs:
     parent: "hiking"
@@ -22,7 +24,6 @@ menu:
 | &#8595; Down | 610 m |
 | Notable Locations | Räterichsboden, Bächlitalhütte SAC |
 | Public Transit Access? | Yes |
-<!-- | Map Download | [PDF](.pdf), [GPX](.gpx) | -->
 
 ![](IMG_1542.JPG "The <hl>Bächlitalhütte SAC</hl> perched at the end of the Bächlisboden glacial floodplain.")
 

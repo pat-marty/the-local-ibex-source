@@ -9,6 +9,8 @@ series:
 date: '2020-09-03'
 lastmod: '2022-03-27'
 draft: false
+banner: 'IMG_7019.JPG'
+add_to_recent_tours: true
 menu:
   docs:
     parent: "hiking"

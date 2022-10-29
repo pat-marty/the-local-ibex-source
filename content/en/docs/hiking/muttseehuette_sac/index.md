@@ -1,6 +1,6 @@
 ---
 title: Muttseehütte SAC
-description: A scenic hike in Glarus to one of the Canton's most famous lakes.
+description: A scenic hike in Glarus to the Muttsee and the Limmerensee.
 toc: true
 authors: ['Pat', 'Bruno']
 tags:

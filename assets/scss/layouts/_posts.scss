@@ -9,13 +9,15 @@
 
 .home .card:hover,
 .contributors.list .card:hover,
-.blog.list .card:hover {
+.blog.list .card:hover,
+.recent_tours.list .card:hover {
   transform: scale(1.025);
 }
 
 .home .card-body,
 .contributors.list .card-body,
-.blog.list .card-body {
+.blog.list .card-body,
+.recent_tours.list .card-body {
   padding: 0 2rem 1rem;
 }
 

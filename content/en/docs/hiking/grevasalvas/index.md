@@ -1,6 +1,6 @@
 ---
 title: Grevasalvas
-description: 
+description: Hiking down the quiet valley of Grevasalvas from the Julierpass to (near) the Malojapass.
 toc: true
 authors: ['Pat']
 tags:
@@ -9,6 +9,8 @@ series:
 date: '2021-08-12'
 lastmod: ''
 draft: false
+banner: 'IMG_1844.JPG'
+add_to_recent_tours: true
 menu:
   docs:
     parent: "hiking"

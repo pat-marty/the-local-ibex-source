@@ -9,6 +9,8 @@ series: 'Val Müstair 2021'
 date: '2021-10-16'
 lastmod: '2021-10-16'
 draft: false
+banner: 'IMG_6951.JPG'
+add_to_recent_tours: true
 menu:
   docs:
     parent: "hiking"
