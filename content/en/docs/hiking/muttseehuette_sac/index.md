@@ -1,19 +1,27 @@
 ---
 title: Muttseehütte SAC
-description: 
+description: A scenic hike in Glarus to one of the Canton's most famous lakes.
 toc: true
 authors: ['Pat', 'Bruno']
 tags:
 categories: 'T3'
 series:
-date: '2021-07-06'
+date: '2022-10-23'
 lastmod: '2022-01-14'
 draft: false
+banner: 'muttseehuette_sac_2022_24.JPG'
+add_to_recent_tours: true
 menu:
   docs:
-    parent: "hiking"
+    parent: 'hiking'
 ---
 <link href="../../../style.css" rel="stylesheet"></link>
+
+![](muttseehuette_sac_2022_24.JPG "The <hl>Limmerensee</hl> as seen from the <hl>Muttenchopf</hl>.")
+
+---
+
+## Summer 2021
 
 | Difficulty | [T3](../overview/#wanderskala) |
 | :--- | :--- |
@@ -22,9 +30,6 @@ menu:
 | &#8595; Down | 730 m |
 | Notable Locations | Tierfed, Kalktrittli, Muttseehütte SAC, Muttenchopf, Limmerensee |
 | Public Transit Access? | No |
-<!-- | Map Download | [PDF](.pdf), [GPX](.gpx) | -->
-
-![](IMG_1189.JPG "The <hl>Limmerensee</hl> as seen from the <hl>Muttenchopf</hl>.")
 
 {{< tabs tabTotal="4" >}}
 {{% tab tabName="Overview" %}}
@@ -45,9 +50,9 @@ menu:
 {{% /tab %}}
 {{% tab tabName="Map" %}}
 
-{{% map E="2719587" N="1190731" zoom="6" %}}
+{{% map gpx="muttseehuette_sac_2021" E="2719587" N="1190731" zoom="6" %}}
 
-{{% map_download %}}
+{{% map_download "muttseehuette_sac_2021" %}}
 
 {{% /tab %}}
 {{% tab tabName="Detailed Description" %}}
@@ -126,7 +131,45 @@ menu:
 {{% /tab %}}
 {{% tab tabName="Gallery" %}}
 
-{{< image-gallery >}}
+{{< image-gallery dir="docs/hiking/muttseehuette_sac/2021" >}}
+
+{{% /tab %}}
+{{< /tabs >}}
+
+---
+
+## Autumn 2022
+
+| Difficulty | [T3](../overview/#wanderskala) |
+| :--- | :--- |
+| &#8644; Distance | 16.8 km |
+| &#8593; Up | 730 m |
+| &#8595; Down | 1820 m |
+| Notable Locations | Tierfed, Kalktrittli, Muttseehütte SAC, Muttenchopf, Limmerensee, Tierfed |
+| Public Transit Access? | No |
+
+{{< tabs tabTotal="3" >}}
+{{% tab tabName="Overview" %}}
+
+## Quick Summary
+
+- Beautiful autumn hike to the <hl>Muttseehütte SAC</hl>.
+  - Planned to take the same path as in 2021.
+- Upon returning to the cable car at <hl>Kalktrittli</hl>, we were informed that the cable car was closed for the rest of the day due to <hl>high winds</hl>.
+  - Had to hike down from <hl>Kalktrittli</hl> to <hl>Tierfed</hl>.
+- Much of the decent from <hl>Kalktrittli</hl> was through the forest which was quite scenic given the <hl>autumn leaves</hl>.
+
+{{% /tab %}}
+{{% tab tabName="Map" %}}
+
+{{% map gpx="muttseehuette_sac_2022" E="2719587" N="1190731" zoom="5.5" %}}
+
+{{% map_download "muttseehuette_sac_2022" %}}
+
+{{% /tab %}}
+{{% tab tabName="Gallery" %}}
+
+{{< image-gallery dir="docs/hiking/muttseehuette_sac/2022" >}}
 
 {{% /tab %}}
 {{< /tabs >}}
