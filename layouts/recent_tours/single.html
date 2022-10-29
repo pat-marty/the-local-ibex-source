@@ -1,0 +1,20 @@
+{{ define "main" }}
+<link href="{{ .Site.BaseURL }}style.css" rel="stylesheet"></link>
+<div class="row justify-content-center">
+  <div class="col-md-12 col-lg-10 col-xl-8">
+    <article>
+      <div class="blog-header">
+        <h1>{{ .Title }}</h1>
+        {{ partial "main/blog-meta.html" . }}
+      </div>
+      <p class="lead">{{ .Params.lead | safeHTML }}</p>
+      {{ if not (eq .Params.banner "") }}
+        <p align="center">
+          <img src="{{ .RelPermalink }}{{ .Params.banner }}" alt="" class="landscape">
+        </p>
+      {{ end }}
+      {{ .Content }}
+    </article>
+  </div>
+</div>
+{{ end }}

@@ -8,7 +8,7 @@ draft: false
 weight: 
 images: []
 banner: IMG_5570.JPG
-contributors: ["Pat", "Bruno"]
+authors: ["Pat", "Bruno"]
 ---
 
 <link href="../../style.css" rel="stylesheet"></link>

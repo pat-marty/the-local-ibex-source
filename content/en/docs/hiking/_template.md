@@ -9,6 +9,8 @@ series:
 date: '2000-12-31'
 lastmod: ''
 draft: true
+banner: ''
+add_to_recent_tours: true
 menu:
   docs:
     parent: "hiking"

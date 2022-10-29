@@ -8,7 +8,7 @@ draft: false
 weight: 
 images: []
 banner: tabs_example.png
-contributors: ["Pat"]
+authors: ["Pat"]
 ---
 
 <link href="../../style.css" rel="stylesheet"></link>
