@@ -26,7 +26,7 @@ menu:
 | Public Transit Access? | Yes |
 
 
-{{< tabs tabTotal="4" >}}
+{{< tabs tabTotal="3" >}}
 {{% tab tabName="Overview" %}}
 
 ## Quick Summary
@@ -36,12 +36,9 @@ menu:
 {{% /tab %}}
 {{% tab tabName="Map" %}}
 
+{{% map E="" N="" zoom="" %}}
+
 {{% map_download %}}
-
-{{% /tab %}}
-{{% tab tabName="Detailed Description" %}}
-
-
 
 {{% /tab %}}
 {{% tab tabName="Gallery" %}}
