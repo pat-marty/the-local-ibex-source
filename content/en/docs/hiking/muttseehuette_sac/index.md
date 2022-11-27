@@ -9,7 +9,7 @@ series:
 date: '2022-10-23'
 lastmod: '2022-01-14'
 draft: false
-banner: 'muttseehuette_sac_2022_24.JPG'
+banner: 'muttseehuette_sac_2022-025.JPG'
 add_to_recent_tours: true
 menu:
   docs:
@@ -17,7 +17,7 @@ menu:
 ---
 <link href="../../../style.css" rel="stylesheet"></link>
 
-![](muttseehuette_sac_2022_24.JPG "The <hl>Limmerensee</hl> as seen from the <hl>Muttenchopf</hl>.")
+![](muttseehuette_sac_2022-025.JPG "The <hl>Limmerensee</hl> as seen from the <hl>Muttenchopf</hl>.")
 
 ---
 
