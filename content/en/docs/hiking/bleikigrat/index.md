@@ -6,7 +6,7 @@ authors: ['Pat', 'Bruno']
 tags:
 categories: 'T4'
 series:
-date: '2023-05-28'
+date: '2023-05-27'
 lastmod: ''
 draft: false
 banner: 'bleikigrat-32.JPG'
