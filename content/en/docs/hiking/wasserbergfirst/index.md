@@ -9,7 +9,7 @@ series:
 date: '2023-06-17'
 lastmod: ''
 draft: false
-banner: ''
+banner: 'wasserbergfirst-21.JPG'
 add_to_recent_tours: true
 menu:
   docs:
