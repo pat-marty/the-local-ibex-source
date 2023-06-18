@@ -4,7 +4,7 @@ description:
 toc: true
 authors: ['Pat', 'Bruno']
 tags:
-categories: 'T4'
+categories: 'T3+'
 series:
 date: '2023-05-27'
 lastmod: ''
@@ -17,7 +17,7 @@ menu:
 ---
 <link href="../../../style.css" rel="stylesheet"></link>
 
-| Difficulty | [T4](../overview/#wanderskala) |
+| Difficulty | [T3+](../overview/#wanderskala) |
 | :--- | :--- |
 | &#8644; Distance | 7.6 km |
 | &#8593; Up | 870 m |
