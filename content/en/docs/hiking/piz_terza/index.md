@@ -19,9 +19,9 @@ menu:
 
 | Difficulty | [T2](../overview/#wanderskala) |
 | :--- | :--- |
-| &#8644; Distance | 15.9 km |
-| &#8593; Up | 940 m |
-| &#8595; Down | 940 m |
+| &#8644; Distance | 15.5 km |
+| &#8593; Up | 970 m |
+| &#8595; Down | 970 m |
 | Notable Locations | Lü (Val Müstair), Piz Terza |
 | Public Transit Access? | Yes |
 
@@ -41,8 +41,10 @@ menu:
 {{% /tab %}}
 {{% tab tabName="Map" %}}
 
-## Coming soon...
+{{% map E="2825215" N="1168975" zoom="6.0" %}}
 
+
+{{% map_download %}}
 
 {{% /tab %}}
 {{% tab tabName="Detailed Description" %}}

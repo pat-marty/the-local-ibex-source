@@ -19,12 +19,11 @@ menu:
 
 | Difficulty | [T2](../overview/#wanderskala) |
 | :--- | :--- |
-| &#8644; Distance | 8.3 km |
-| &#8593; Up | 490 m |
-| &#8595; Down | 490 m |
+| &#8644; Distance | 7.8 km |
+| &#8593; Up | 420 m |
+| &#8595; Down | 420 m |
 | Notable Locations | Riemenstalden, Gitschen, Spilauersee, Siwfass |
 | Public Transit Access? | Yes[^1] |
-<!-- | Map Download | [PDF](.pdf), [GPX](.gpx) | -->
 
 <p align="center">
   <img src="IMG_0899.JPG" alt="" class="landscape">
@@ -49,7 +48,9 @@ menu:
 {{% /tab %}}
 {{% tab tabName="Map" %}}
 
-## Coming soon...
+{{% map E="2694730" N="1198020" zoom="6.5" %}}
+
+{{% map_download %}}
 
 {{% /tab %}}
 {{% tab tabName="Detailed Description" %}}

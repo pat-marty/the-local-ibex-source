@@ -20,9 +20,9 @@ menu:
 
 | Difficulty | [T3](../overview/#wanderskala) |
 | :--- | :--- |
-| &#8644; Distance | 13.8 km |
-| &#8593; Up | 1200 m |
-| &#8595; Down | 1200 m |
+| &#8644; Distance | 15.5 km |
+| &#8593; Up | 1250 m |
+| &#8595; Down | 1250 m |
 | Notable Locations | Piz Chavalatsch, Stelvio National Park, Sta. Maria (Val Müstair) |
 | Public Transit Access? | No |
 
@@ -42,7 +42,9 @@ menu:
 {{% /tab %}}
 {{% tab tabName="Map" %}}
 
-## Coming soon...
+{{% map E="2832530" N="1167200" zoom="6.0" %}}
+
+{{% map_download %}}
 
 {{% /tab %}}
 {{% tab tabName="Detailed Description" %}}
