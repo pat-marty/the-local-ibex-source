@@ -52,15 +52,21 @@
   url = "recent_tours/"
   weight = 20
 
+
 [[main]]
-  name = "Blog"
-  url = "blog/"
+  name = "Map"
+  url = "map/"
   weight = 30
+
+# [[main]]
+#   name = "Blog"
+#   url = "blog/"
+#   weight = 40
 
 [[main]]
   name = "About"
   url = "about/"
-  weight = 40
+  weight = 50
 
 [[social]]
   name = "GitHub"

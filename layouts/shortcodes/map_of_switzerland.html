@@ -1,0 +1,36 @@
+{{ $path_for_swisstopo :=
+"https://map.geo.admin.ch/embed.html?topic=ech&lang=en&bgLayer=ch.swisstopo.pixelkarte-grau&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.astra.wanderland-sperrungen_umleitungen"
+}}
+
+{{ $gpx_url := printf "%sdocs/hiking/" .Site.Params.baseurl }}
+
+{{ $hiking_dir := "/content/en/docs/hiking/" }}
+
+{{/*  Iterate through every file in the hiking directory  */}}
+{{ range readDir $hiking_dir }}
+{{/*  Get the current file we're looking at  */}}
+{{ $current_dir := printf "%s%s" $hiking_dir .Name }}
+{{ $current_tour := .Name }}
+{{/*  Only proceed if the file is a directory  */}}
+{{ if .IsDir }}
+{{/*  Iterate through all files in the directory  */}}
+{{ range readDir $current_dir }}
+{{ $extension := path.Ext .Name }}
+{{/*  Only proceed for GPX files  */}}
+{{ if eq $extension ".gpx" }}
+{{ $path_for_swisstopo = printf "%s%s" $path_for_swisstopo ",GPX%7C%7C" }}
+{{ $current_url := printf "%s%s/%s" $gpx_url $current_tour .Name }}
+{{ $current_url := strings.Replace $current_url "/" "%2F" }}
+{{ $path_for_swisstopo = printf "%s%s" $path_for_swisstopo $current_url }}
+{{end}}
+{{ end }}
+{{ end }}
+{{ end }}
+
+{{ $suffix := "&layers_opacity=1,1,1,0.8,0.8,1&layers_visibility=false,false,false,false,false,true&layers_timestamp=0,,,,,&E=2651903.66&N=1184265.84&zoom=0.1" }}
+
+{{ $path_for_swisstopo = printf "%s%s" $path_for_swisstopo $suffix }}
+
+<div class="aspect-ratio">
+    <iframe src="{{ $path_for_swisstopo }}"></iframe>
+</div>
