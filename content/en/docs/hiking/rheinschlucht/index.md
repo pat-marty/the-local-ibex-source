@@ -9,7 +9,7 @@ series:
 date: '2024-04-27'
 lastmod: ''
 draft: false
-banner: ''
+banner: 'rheinschlucht-20.jpg'
 add_to_recent_tours: true
 menu:
   docs:
