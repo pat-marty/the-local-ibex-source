@@ -2,18 +2,21 @@
 <div class="row justify-content-center">
   <div class="col-md-12 col-lg-10 col-xl-8">
     <article>
-      <h1 class="text-center">{{ .Title }}</h1>
+      {{/*  <h1 class="text-center">{{ .Title }}</h1>  */}}
+	  <h1 class="text-center">List of Hikes</h1>
       <div class="text-center">{{ .Content }}</div>
 			<div class="card-list">
 				{{ $currentSection := .CurrentSection }}
-				{{ range where .Pages "Section" .Section }} <!-- .Pages.ByTitle -->
-					{{ if in (.RelPermalink | string) $currentSection.RelPermalink }}
-						<div class="card my-3">
-							<div class="card-body">
-								<a class="stretched-link" href="{{ .RelPermalink }}overview/">{{ .Params.title | title }} &rarr;</a>
+				{{ range (where .Pages "Section" .Section).ByParam "title" }} <!-- .Pages.ByTitle -->
+					{{ if not (eq .Params.title "Hiking — Overview") }}
+						{{ if in (.RelPermalink | string) $currentSection.RelPermalink }}
+							<div class="card my-3">
+								<div class="card-body">
+									<a class="stretched-link" href="{{ .RelPermalink }}overview/">{{ .Params.title | title }} &rarr;</a>
+								</div>
 							</div>
-						</div>
-					{{ end }}
+						{{ end }}
+					{{end}}
 				{{ end }}
 			</div>
     </article>
